@@ -1,0 +1,1419 @@
+sentimento,empresa,tempo_reclamacao,status,titulo,seguro,sinistro,prestamista,carro,cancelamento,protecao,atendimento,rembolso
+Negativo,HDI Seguros,4,Não resolvido,Demora no reparo do veículo,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,Reembolso honorários,false,false,false,false,false,false,false,true
+Negativo,HDI Seguros,15,Não resolvido,Carro reserva sinistro 010425351170591,false,true,false,true,false,false,false,false
+Negativo,HDI Seguros,15,Não resolvido,Terceirizado quebrou uma peça do meu veículo,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,16,Resolvido,DEMORA NA ENTREGA DAS PEÇAS,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,38,Não resolvido,Demora em resolver conserto do veículo,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,2,Não resolvido,SINISTRO CARTA NEGATIVA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,7,Não resolvido,SINISTRO N010353153211852,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,14,Não resolvido,estou a mais de 2 meses sem carro,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,41,Não resolvido,Reparos mal feito pela rede credenciada,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,Serviço de péssima qualidade,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Não resolvido,Renovação de apólice de seguro,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,41,Resolvido,Reparo do veículo ainda não aconteceu,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,11,Resolvido,"Descaso com o usuário, parado há horas na estrada e não enviam o reboque!",false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Não resolvido,HDI vende veículo com procuração rejeitada pelo DETRAN/DF impossibilitando a transferência,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,CARRO RESERVA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,10,Não resolvido,NÃO RENOVARAM MEU SEGURO,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,1,Não resolvido,Atendimento não realizado,false,false,false,false,false,false,true,false
+Negativo,HDI Seguros,6,Não resolvido,Conserto recusado Sinistro n 010043153208857,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Resolvido,Seguradora não quer pagar tabela FIPE para terceiros,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,19,Não resolvido,COBRANÇA INDEVIDA AO TERCEIRO,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,9,Não resolvido,Seguro que não funciona,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,2,Resolvido,Não recebi reembolso,false,false,false,false,false,false,false,true
+Negativo,HDI Seguros,8,Resolvido,Sem respostas sobre sinistro,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,11,Não resolvido,Consertam só que está nas fotos,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,2,Não resolvido,DIFICULDADE DE ACESSO AO CARRO RESERVA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,17,Não resolvido,Pior empresa que já solicitei serviços,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,63,Não resolvido,HDI SEGUROS - SEM SEMSIBILIDADE E BOM SENSO.,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Não resolvido,Tive mais de um problema com a seguradora,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,12,Não resolvido,Assistência 24H NÃO FUNCIONA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,48,Não resolvido,PESSIMA EXPERIÊNCIA COM A HDI - NUNCA MAIS,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,6,Não resolvido,Cancelamento Indevido da Apólice,false,false,false,false,true,false,false,false
+Negativo,HDI Seguros,14,Não resolvido,Sinitros de terceiros,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,9,Não resolvido,Atendimento Vergonhoso,false,false,false,false,false,false,true,false
+Negativo,HDI Seguros,24,Não resolvido,Sinistro 010465351166842,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,7,Não resolvido,Sinistro não autorizado,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,27,Não resolvido,Sinistro Hdi seguros,true,true,false,false,false,false,false,false
+Negativo,HDI Seguros,55,Não resolvido,Fiquei jogando igual lixo pela HDI seguros,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,44,Resolvido,Sem comprometimento com cliente,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,Pior prestação de serviço,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,34,Resolvido,Estão demorando para arrumar meu carro.,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,Abandonado na pista Expressa da Marginal Tiête,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,25,Não resolvido,Descaso com cliente,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,7,Não resolvido,sinistro veículo,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,1,Não resolvido,HDI NÃO paga a responsabilidade contra terceiro,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,14,Não resolvido,HDI engana cliente na disponibilização do carro reserva,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,15,Não resolvido,Seguro hdi,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,4,Não resolvido,Carro foi entregue com defeito e estão acusando que era defeito anterior,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,9,Não resolvido,Problema com financeiro.,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,9,Não resolvido,Sem resposta de sinistro há mais de 45 dias,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,17,Resolvido,Segunda via de boleto e voltar a debitar no cartão,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,38,Não resolvido,DEFEITO MECANICO,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,SINISTRO: 010603153209078,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,6,Não resolvido,CONTRATO CANCELADO INDEVIDAMENTE,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,3,Não resolvido,Cancelamento de Proposta Devolução de Valores,false,false,false,false,true,false,false,false
+Negativo,HDI Seguros,8,Não resolvido,Falta de peças para reparo e falta de resolução,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,11,Resolvido,HDI NAO LIBERA AUTORIZAÇÃO DE REPAROS DO TERCEIRO,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,23,Não resolvido,HDI Seguros.,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,26,Resolvido,Assistencia 24 Horas Faz a Gente de Burro,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,7,Não resolvido,Meses sem resolver a situação,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,32,Não resolvido,HDI Seguros não conserta nem devolve carro de terceiro,true,false,false,true,false,false,false,false
+Negativo,HDI Seguros,33,Resolvido,falta de respeito com o cliente,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,32,Não resolvido,"Serviço de MÁ QUALIDADE, DESCASO COM SEGURADO!!",false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,10,Resolvido,Não tem resposta para o sinistro,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,10,Resolvido,HDI nunca mais,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Resolvido,Cliente Da da seguradora bateu no meu carro,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,1,Não resolvido,HDI Seguros - Não tem respeito pelos clientes,true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,27,Resolvido,Falta de boleto,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,14,Resolvido,PALHAÇADA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,20,Não resolvido,Até o momento a Seguradora HDI não autorizou o serviço. São quase 10 dias de espera.,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,4,Não resolvido,Descaso com o segurado,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,19,Não resolvido,"Rescisão unilateral de contrato de seguro, retenção de valores pagos e cobrança de indébito",true,false,false,false,false,false,false,false
+Negativo,HDI Seguros,25,Não resolvido,Não dão retorno,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,73,Resolvido,Falta de Respeito com o Assegurado.,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,6,Resolvido,Recusa da HDI em proceder com o sinistro,false,true,false,false,false,false,false,false
+Negativo,HDI Seguros,15,Resolvido,DESRESPEITOS AOS PRAZOS DE LIBERAÇÃO DE CONSERTOS - SINISTRO 010453153221650,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,44,Não resolvido,LIBERAÇÃO DE CONSERTO DE VEICULO,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,39,Resolvido,Guincho a onde? Sofrimento,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,21,Não resolvido,HDI não devolve meu carro e não responde no Fale Conosco,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,4,Resolvido,Prazos,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,6,Não resolvido,Fato: 3 semanas e sem previsão de conclusão do reparo,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,16,Resolvido,Reparos Incompleto no veículo sinistrado,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,6,Resolvido,ESPERA ESSESSIVA POR PEÇA A SER TROCADA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,13,Não resolvido,Sem carro reserva,false,false,false,true,false,false,false,false
+Negativo,HDI Seguros,33,Resolvido,Troca de lanterna,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,8,Não resolvido,ERRO NA DIGITACAO DA APOLICE GEROU ENDOSSO E AUMENTO FRANQUIA,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,59,Resolvido,Lucro cessante não autorizado,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,18,Resolvido,Processo e Desrespeito a Prazos/Falta de Transparência,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,3,Resolvido,COMPROVANTE CANCELAMENTO APÓLICE,false,false,false,false,false,false,false,false
+Negativo,HDI Seguros,24,Resolvido,HDI: Hoje De novo Infeliz,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,17,Resolvido,Desrespeito ao Consumidor,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,17,Resolvido,Cobrança indevida por notificação extrajudicial,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,20,Resolvido,SERVIÇO NÃO AUTORIZADO,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,51,Resolvido,Problemas com a indenização por perda total,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,13,Resolvido,HDI não responde meus e-mails e demora para resolver meu caso,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,7,Resolvido,A empresa não me socorreu e não me deu nenhuma satisfação,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,6,Resolvido,Sem retorno do reembolso,false,false,false,false,false,false,false,true
+Positivo,HDI Seguros,22,Resolvido,Morosidade na manutenção do meu carro,false,false,false,true,false,false,false,false
+Positivo,HDI Seguros,12,Resolvido,Demora na liberação de reparos no veículo,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,16,Resolvido,VISTORIA HDI SEGUROS OFICINA AUTO REPAIR,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,21,Resolvido,Pagamento peças,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,9,Resolvido,Assistência 24 horas - Troca de Pneu,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,30,Resolvido,Não autorizam o conserto,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,2,Resolvido,Não permitiram o uso do serviço,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,47,Resolvido,Ausência de guincho e transtorno!!,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,41,Resolvido,3h de espera para o reboque.,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,4,Resolvido,Negligência e[Editado pelo Reclame Aqui],false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,60,Resolvido,Empresa não autoriza meu conserto,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,8,Resolvido,Protocolo 60921031,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,15,Resolvido,Na hora que mais precisei o serviço não foi feito,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,8,Resolvido,Seguro não fez reembolso,true,false,false,false,false,false,false,true
+Positivo,HDI Seguros,8,Resolvido,Reembolso,false,false,false,false,false,false,false,true
+Positivo,HDI Seguros,3,Resolvido,Não tem assistencia,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,7,Resolvido,EMPRESA SEM COMPROMETIMENTO COM O CLIENTE,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,9,Resolvido,INSATISFACAO TOTAL NAO IREI RENOVAR O SEGURO COM ESSA EMPRESA,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,14,Resolvido,Solicitação de reembolso,false,false,false,false,false,false,false,true
+Positivo,HDI Seguros,11,Resolvido,Sem retorno HDI prazo excedido,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,21,Resolvido,Cancelei meu seguro,true,false,false,false,false,false,false,false
+Positivo,HDI Seguros,42,Resolvido,SINISTRO 010035351169644,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,3,Resolvido,"Prazo absurdo para aprovarem o orçamento,",false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,18,Resolvido,SINISTRO NÃO ATENDIDO 010255351175415 / MUDANÇA CONSTANTE DE DATA / ABSURDO DO ABSURDO,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,34,Resolvido,Prestação de Serviço de Assistência 24h Ruim - Falta de Zelo,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,6,Resolvido,Prorrogação de carro reserva,false,false,false,true,false,false,false,false
+Positivo,HDI Seguros,10,Resolvido,Informações,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,21,Resolvido,Reembolso a terceiros não efetuado,false,false,false,false,false,false,false,true
+Positivo,HDI Seguros,5,Resolvido,Incompetência e Descaso,false,false,false,false,false,false,false,false
+Positivo,HDI Seguros,8,Resolvido,"Falta de informação e acesso, sinistro mal resolvido, perito ausente",false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,42,Não resolvido,Não quer pagar o terceiro,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,16,Resolvido,Não entram em contato para a renovação da Apólice.,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,85,Resolvido,troca do para brisa,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,34,Resolvido,Cancelou o pagamento com uma informação [Editado pelo Reclame Aqui],false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,31,Não resolvido,Azul Seguros deixa Consumidor falando sozinho,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,18,Não resolvido,O cliente que se vire,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,30,Não resolvido,Veículo sem prazo de entrega,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,21,Não resolvido,DEMORA NA LIBERAÇÃO DO CARRO,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,14,Não resolvido,Sinistro com veículo,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,24,Não resolvido,Negação da Indenização,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,5,Não resolvido,Pagamento de lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,1,Não resolvido,Alto valor para renovação do seguro,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,7,Resolvido,Cobrança Indevida,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,5,Resolvido,Cancelamento do Seguro,true,false,false,false,true,false,false,false
+Negativo,Azul Seguros,13,Não resolvido,Seguro de Veículos,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,11,Não resolvido,Aguardando envio da apólice a mais de 11 meses,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,7,Não resolvido,Azul seguros quer remendar meu carro que está destruído devido a queda de uma arvore de mais de 15 metros de altura,true,false,false,true,false,false,false,false
+Negativo,Azul Seguros,21,Não resolvido,Não querem efetuar o serviço,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,15,Não resolvido,SINSITRO DEMORADO,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,32,Não resolvido,Azul recusa o seguro e fico sem seguro,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,13,Resolvido,"Sou terceiro, carro batido ha mais de 2 semanas e a Azul me enrolando",false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,52,Não resolvido,Transtornos e prejuízos,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,7,Não resolvido,Renovação muito alta,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,15,Não resolvido,Entrega de serviço/ carro reserva,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,32,Não resolvido,Vistoria,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,43,Não resolvido,"ENROLADOS E DESINFORMADOS , SÓ MARKETING NO BBB",false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,25,Resolvido,DESCASO COM CONSUMIDOR - VÉICULO COM SINISTRO A 60 DIAS SEM QUE A SEGURADORA FORNEÇA PEÇAS E AUTORIZE O REPARO PELA OFICINA,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,4,Não resolvido,Não cobriu todos os danos causados no veiculo,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,12,Não resolvido,Colisão não autorizou pagamento de terceiro em seguida mudaram de idéia,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,15,Não resolvido,100 dias sem meu carro!,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,33,Não resolvido,Multa do veículo arrematado na copart,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,35,Não resolvido,Terceiro,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,51,Resolvido,Demora na autorização,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,3,Não resolvido,23 dias aguardando análise de sinsitro,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,33,Não resolvido,DESCASO E FALTA DE COMPROMETIMENTO COM O CLIENTE,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,33,Não resolvido,Estou sem meu carro a 82 dias!,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,2,Não resolvido,Não querem consertar na minha oficina de confiança,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,43,Não resolvido,Azul Seguro ( desrespeito com segurado),true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,7,Não resolvido,Sinistro acionado sem reparo do veículo,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,37,Não resolvido,A empresa se recusou a tomar providência sobre o dano,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,12,Não resolvido,EMPRESA SEM NENHUM RESPEITO PELO CLIENTE: NÃO CONTRATEM A AZUL SEGUROS!!!,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,61,Não resolvido,falta de respeito,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,13,Não resolvido,Seguro não está disponibilizando uma peça original.,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,1,Não resolvido,Empresa não disponibiliza a para-brisa ORIGINAL do carro e NEM da mesma marca do carro.,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,2,Não resolvido,Falta de palavra,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,4,Não resolvido,Vistoria negada,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,4,Não resolvido,Demora na aprovação,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,49,Não resolvido,Reparos autorizados e carro não entregue,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,1,Não resolvido,Azul seguros descaso com cliente serviço ruim,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,19,Não resolvido,DESCASO RELACIONADO A CARRO RESERVA,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,7,Não resolvido,"Demora em autorização, descaso com segurado",false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,11,Não resolvido,Burocracia para Liberação de Sinistro,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,35,Não resolvido,Abertura de sinistro e demora na conclusão,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,46,Não resolvido,Não paga o sinistro que rege no contrato e muita demora (2 meses ) para arrumar o carro.,false,true,false,true,false,false,false,false
+Negativo,Azul Seguros,26,Não resolvido,Terceiro prejudicado sem acesso a seguradora que atua com desídia e de forma protelatória,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,35,Não resolvido,"Carro abandonado da oficina, seguradoda não faz nada",false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,71,Resolvido,Se recusam a fazer a vistoria complementar.,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,33,Resolvido,AZUL SEGUROS NÃO CMPRE COM SUAS OBRIGAÇÕES COM TERCEIROS.,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,9,Não resolvido,Pendência no Sinistro,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,25,Não resolvido,AZUL SEGUROS É A PIOR SEGURADORA DO MUNDO!,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,34,Não resolvido,recusa indevida SINISTRO 2022084037 Apólice número: 10223101007398-000:,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,9,Resolvido,INDENIZAÇÃO INTEGRAL ABAIXO DO VALOR DA TABELA FIPE (TERCEIROS),false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,4,Resolvido,Demora para resolução do Sinistro,false,true,false,false,false,false,false,false
+Negativo,Azul Seguros,21,Não resolvido,Mais de 60 sem carro e não querem liberar o conserto do ventilador do ar condicionado,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,57,Resolvido,seguro auto,true,false,false,false,false,false,false,false
+Negativo,Azul Seguros,88,Não resolvido,PÉSSIMA PRESTAÇÃO DE SERVIÇOS DA AZUL SEGUROS,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,40,Resolvido,Descaso e desrespeito total,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,12,Não resolvido,Confirmaram a aprovação do terceiro e depois declinaram alegando que não foi culpa do segurado,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,41,Resolvido,TROCA DA LATERNA DA DOBLÔ PELA SEGURADORA,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,34,Não resolvido,Péssimo atendimento ao cliente,false,false,false,false,false,false,true,false
+Negativo,Azul Seguros,6,Não resolvido,Uma verdadeira Zona!!!,false,false,false,false,false,false,false,false
+Negativo,Azul Seguros,34,Não resolvido,Demora no conserto do meu carro,false,false,false,true,false,false,false,false
+Negativo,Azul Seguros,16,Resolvido,Atraso em reparo de terceiro,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,4,Resolvido,Azul trava renovação por retorno do cartão Porto Seguro,true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,32,Resolvido,Colisão em terceiro,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,15,Resolvido,AZUL NÃO QUER RENOVAR MINHA APOLICE,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,3,Resolvido,"PRECISO CANCELAR IMEDIATAMENTE, PRA NÃO DEBITAR A PARCELA",false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,3,Resolvido,"Azul bloqueia dados da RENOVAÇÃO, para cliente não cotar o seguro",true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,46,Resolvido,Não consigo ser atendido.,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,29,Resolvido,"Renovei meu seguro com a Azul Seguros, o valor cobrado foi diferente da proposta",true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,3,Resolvido,"Paguei pelas mensalidades, porém, meu seguro foi cancelado",true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,7,Resolvido,Não liberação carro reserva e não autorização do sinistro,false,true,false,true,false,false,false,false
+Positivo,Azul Seguros,3,Resolvido,VISTORIA DE COLISAO,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,5,Resolvido,"Processo parado, todo dia aumenta o prazo em dois dias úteis",false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,6,Resolvido,Liberar veículo para arrumar,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,3,Resolvido,Devolução de cancelamento,false,false,false,false,true,false,false,false
+Positivo,Azul Seguros,20,Resolvido,Apólice do seguro impressa.,true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,34,Resolvido,RECUSA DE SINISTRO SEM AVALIAÇÃO CORRETA DOS DANOS,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,24,Resolvido,Rr garagem vargem grande Paulista,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,23,Resolvido,Demora na Troca do Vidro (Para-brisa Traseiro),false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,10,Resolvido,Azul seguros - demora no fornecimento de peças para reparo,true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,26,Resolvido,Cancelamento indevido,false,false,false,false,true,false,false,false
+Positivo,Azul Seguros,22,Resolvido,Renovação seguro sem autorizar !,true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,15,Resolvido,Veículo há 4 meses em oficina / Lucro Cessante,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,9,Resolvido,Sem reposta da seguradora sobre andamento do sinistro,false,true,false,false,false,false,false,false
+Positivo,Azul Seguros,11,Resolvido,Descaso total com terceiros,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,29,Resolvido,Péssimo atendimento.,false,false,false,false,false,false,true,false
+Positivo,Azul Seguros,4,Não resolvido,Estou com minha Ranger na oficina 18/03/22 e,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,6,Resolvido,Falta de respeito com o consumidor,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,23,Resolvido,Seguro não ativo,true,false,false,false,false,false,false,false
+Positivo,Azul Seguros,44,Resolvido,Não informam data de chegada das peças,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,27,Resolvido,Demora para liberação do sinistro,false,true,false,false,false,false,false,false
+Positivo,Azul Seguros,25,Resolvido,Demora para consertar o veículo,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,28,Resolvido,Descontado cobrança sem vistoria,false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,30,Resolvido,"Demora, desencontro de informação e enrolação.",false,false,false,false,false,false,false,false
+Positivo,Azul Seguros,6,Resolvido,"Reembolso de valor cobrado a mais, devido um erro de sistema.",false,false,false,false,false,false,false,true
+Negativo,Porto Seguro,26,Não resolvido,Solicitação de documento para seguro auto,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,48,Resolvido,"Porto Seguro se nega a autorizar conserto de veículo, mesmo após vistoria autorizada",true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,22,Não resolvido,"CARRO FACIL - ABSURDO DE CARO, COBRANÇA VEM DEPOIS DE ANOS E TE ENROLAM",false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,32,Não resolvido,PORTO SEGURO FEZ O SERVIÇO DA TERCEIRA PELA METADE . ABSURDO / SEGURADO E TERCEIRO AVALIANDO AJUIZAR AÇÃO POIS TEMOS PROVAS,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,20,Não resolvido,Seguro só de fachada,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Não resolvido,Seguro residencial,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,5,Resolvido,enrolação para pagar sinistro,false,true,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Solicitação indevida de sinistro,false,true,false,false,false,false,false,false
+Negativo,Porto Seguro,7,Não resolvido,Porto Seguro Seguros S.A.,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,70,Não resolvido,Não indico esse seguro a ninguém!,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,9,Resolvido,Não consigo encerrar minha conta no Conquista!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,3,Não resolvido,Tech Fácil,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,25,Não resolvido,Serviços da Porto Seguro Auto em decadência..,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Não consigo escolher a oficina que será feito o reparo do veículo,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,21,Não resolvido,Renovação,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Na Porto Seguro o desrespeito e a desfaçatez não conhecem limites,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,10,Não resolvido,Cobrança de multa de 3 anos atrás? Não faz sentido,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,58,Não resolvido,PORTO SEGURO - CORRETORA SBM - Não respeitam as apólices,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,22,Não resolvido,"Cobrança indevida, fora do horário, insistência em cobrança!",false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Não resolvido,Desrespeito com o consumidor,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,22,Não resolvido,Lucros Cessantes - Terceiro,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,49,Não resolvido,Falta de qualidade no serviço,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,5,Não resolvido,Renovação de seguro de carro,true,false,false,true,false,false,false,false
+Negativo,Porto Seguro,19,Não resolvido,TECHFACIL NEGANDO CONTRATAÇÃO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,65,Não resolvido,Não cumprem acordo!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,15,Não resolvido,"Tech Facil , Facil só no nome",false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,38,Não resolvido,motorista da vez x dia das mães estragado,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,13,Não resolvido,"Meu piso da cozinha danificou após troca da torneira pela porto seguro, deixou vazando a água quente que infiltrou e delatou o puso",true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,39,Não resolvido,Seguro não atendido,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,20,Não resolvido,Não existe canal de atendimento ao cliente.,false,false,false,false,false,false,true,false
+Negativo,Porto Seguro,30,Não resolvido,SEGURO DE VIDA CANCELADO E NÃO ESTORNARAM O VALOR,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,54,Não resolvido,Carro Facil Porto Seguro,true,false,false,true,false,false,false,false
+Negativo,Porto Seguro,27,Não resolvido,Falta de atendimento ao Sinistro,false,true,false,false,false,false,true,false
+Negativo,Porto Seguro,63,Não resolvido,Seguradora não indeniza cliente conforme o contratado,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,37,Não resolvido,Empresa insuportável. Já pedi para pararem de enviar spam por SMS e continuam me perturbando quase todo dia!!!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,22,Não resolvido,Manutenção.,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,34,Resolvido,Sinistro aberto em 01/04/2022 sem solução ainda,false,true,false,false,false,false,false,false
+Negativo,Porto Seguro,52,Não resolvido,falta de atendimento porto seguro,true,false,false,false,false,false,true,false
+Negativo,Porto Seguro,13,Não resolvido,Não está a aprovando minha renovação da assinatura,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,4,Não resolvido,Tech Fácil e venda casada,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,9,Resolvido,Restituição e falta de profissionalidade,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,41,Não resolvido,Insatisfação,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,44,Não resolvido,Lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,18,Não resolvido,A Porto Seguros não tem mais atendimento,true,false,false,false,false,false,true,false
+Negativo,Porto Seguro,62,Resolvido,Cobrança indevida,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,42,Resolvido,Carro parado há 5 meses,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,6,Resolvido,Algo que poderia ser tão simples de resolver..,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,70,Não resolvido,Porto Seguro tem me causado diversos transtornos,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,23,Resolvido,Contratei o serviço e só posso utilizar 3 vezes no ano,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,28,Resolvido,TECH FACIL DEVOLUÇÃO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Não resolvido,cobrança por serviços não realizado,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,21,Resolvido,Continuo não recebendo Nota Fiscal de Serviço,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,36,Não resolvido,Recusa na cobertura de danos provocados por vendaval,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,15,Não resolvido,PORTO SEGURO NÃO CONFIÁVEL,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Tech Fácil - Atraso na entrega do aparelho celular,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,83,Não resolvido,Sinistro do terror - Descaso total 2 meses reparo simples,false,true,false,false,false,false,false,false
+Negativo,Porto Seguro,40,Resolvido,Porto seguro quer que terceiro assuma a depreciação do veículo,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,2,Não resolvido,TINHA DESCONTO NA FRANQUIA POR PAGAR COM CARTÃO PORTO E DEPOIS FALARSM QUE NÃO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,21,Não resolvido,Tech fácil,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,68,Não resolvido,Porto Seguro não aprova meu seguro fiança.,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,13,Não resolvido,"Descaso com terceiros - sem previsão de conserto do veículo, não pagamento de lucros cessantes.",false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,38,Não resolvido,Má prestação de serviço seguro auto seguro parcial por alagamento(Fujam da Porto Seguro),true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,10,Não resolvido,Guincho 7 horas e ainda não chegou,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Fazem o cliente de palhaço,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,6,Não resolvido,Falta de informação sobre o andamento do pedido,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,7,Resolvido,Contrato Porto Carro Fácil prestes a vencer e não consigo contato,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,29,Não resolvido,Recusa de serviços sem Justificativa,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,40,Não resolvido,2 MESES SEM MEU CARRO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,11,Não resolvido,"60 dias com carro na oficina por conta de atraso liberação de reparo, 19 dias corrido da data de abertura até a liberação",false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,15,Resolvido,Não consigo atendimento,false,false,false,false,false,false,true,false
+Negativo,Porto Seguro,14,Resolvido,Cobrança por Telefone não recebido,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,13,Resolvido,MAÇADA E PÉSSIMO ATENDIMENTO - TECH FÁCIL PORTO SEGURO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,23,Resolvido,Carro Fácil,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,5,Não resolvido,Sinistro do meu carro,false,true,false,true,false,false,false,false
+Negativo,Porto Seguro,7,Resolvido,cobrança indevida,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Resolvido,Porto não cumpre agendamento,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Resolvido,Sem produto e sem estorno!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,74,Não resolvido,Plano de assinatura Tech Fácil sem respeito pelo cliente. S22 Ultra lançado na fatura em 17/02 e sem receber o aparelho até hoje.,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,27,Não resolvido,Assinatura smartphone na Porto Tech Fácil,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,6,Não resolvido,FURTO DE RETROVISSORES / NÃO RESSARCIMENTO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Resolvido,Carro Fácil,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,2,Não resolvido,Arriogancia esta no AR,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Não resolvido,Tech fácil decepcionado com vcs,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,22,Não resolvido,Seguro auto,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Resolvido,Cobrança Avaria Indevida - Vistoria Entrega Carro Fácil,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,3,Não resolvido,Tech fácil não se importa com o consumidor!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,34,Resolvido,Cobrança indevida - Porto Seguro Faz,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,6,Não resolvido,Não contratem a Porto Seguro auto!,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,7,Resolvido,SEGURO RESIDENCIAL NÃO INDENIZA AS COBERTURAS PAGAS.,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,8,Resolvido,Seguro Residencial cobrado mas não concretizado,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,51,Não resolvido,PÉSSIMO ATENDIMENTO,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,9,Resolvido,Assinatura Tech Fácil Sendo Cobrada em Dobro,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,9,Resolvido,Cobrança indevida Carro Fácil,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,74,Resolvido,Demora na disponilização de peça automotiva,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,10,Resolvido,Nenhum telefone atende!!!,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,28,Não resolvido,Não atendem e não resolvem,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,62,Resolvido,Cobrança Indevida,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,13,Resolvido,Porto Seguro não prima por informações!,true,false,false,false,false,false,false,false
+Negativo,Porto Seguro,2,Não resolvido,"QUERO ASSINAR o TechFácil, sou cliente PORTO SEGURO CARTÕES, mas NÃO CONSIGO!!",false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,23,Resolvido,PORTO SEGURO / SERVIÇO CONTRATO PORTO FAZ,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,3,Não resolvido,Instalação,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Não resolvido,Não tem previsão de entrega,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,14,Não resolvido,Não devolução de pontos do cartão itaú,false,false,false,false,false,false,false,false
+Negativo,Porto Seguro,19,Não resolvido,Acione a franquia e receba o carro com mais problemas do que entregou,false,false,false,true,false,false,false,false
+Negativo,Porto Seguro,23,Resolvido,Recebi reembolso 11% abaixo da tabela FIPE.,false,false,false,false,false,false,false,true
+Negativo,Porto Seguro,4,Resolvido,CARRO FÁCIL maior pegadinha do setor,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,57,Resolvido,Envio de propagandas por SMS,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,16,Resolvido,Meu carro era para ter sido entregue dia 29/03 e ainda esta na oficina no conserto,false,false,false,true,false,false,false,false
+Positivo,Porto Seguro,1,Resolvido,Porto Seguro Seguradora,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,8,Resolvido,"Assinatura tech facil, sem retorno",false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,15,Resolvido,Consulta no Serasa sem Motivo,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,39,Resolvido,Novamente não consigo agendar suporte técnico,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,14,Resolvido,Seguro de celular iPhone 13 128gb,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,3,Resolvido,Carro zero com defeito e voucher do carro seguro bloqueado,true,false,false,true,false,false,false,false
+Positivo,Porto Seguro,3,Resolvido,Prestador de Serviço do Guincho da porto bateu meu Carro.,false,false,false,true,false,false,false,false
+Positivo,Porto Seguro,10,Resolvido,"Descaso, falta de comprometimento, indignação",false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,44,Resolvido,Envio de SPAM novamente,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,22,Resolvido,Porto Seguro Faz! Você passar nervoso!,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,32,Resolvido,O Jogo do empura-empura,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,8,Resolvido,Exigências infundadas,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,8,Resolvido,Cobrança indevida de pontos e seguidos erros,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,10,Resolvido,Atendimento,false,false,false,false,false,false,true,false
+Positivo,Porto Seguro,6,Resolvido,Não consegui ser atendido,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,3,Resolvido,Recebi uma carta de apólice do Porto Seguro,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,15,Resolvido,Não tive direito à um guincho,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,13,Resolvido,Oficina credenciada Agostini / Mecânico desonesto !,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,16,Resolvido,SR DANIEL SILVEIRA- HOMEM OU SACO BATATA,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,24,Resolvido,Motorista da vez da Porto Seguro não funciona,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,18,Resolvido,Porto Seguro Carro Fácil: O PIOR serviço do mundo!,true,false,false,true,false,false,false,false
+Positivo,Porto Seguro,5,Resolvido,Falta de suporte,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,2,Resolvido,Surpresa com o absurdo .,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,9,Resolvido,PESSIMO ATENDIMENTO. Lançaram 4 atendimentos indevidos.,false,false,false,false,false,false,true,false
+Positivo,Porto Seguro,5,Resolvido,"Carro reserva, Porto Seguro",true,false,false,true,false,false,false,false
+Positivo,Porto Seguro,16,Resolvido,"Espera eterna, atendimento não resolve",false,false,false,false,false,false,true,false
+Positivo,Porto Seguro,10,Resolvido,"solicitei porto seguro faz, nao resolveram o problema e me cobraram",true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,37,Resolvido,Cadastro,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,5,Resolvido,Fiz dois chamados e não fui atendido,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,33,Resolvido,Porto Seguro / Autoglass - ATENDIMENTO PÉSSIMO,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,2,Resolvido,CONSERTO DE PARTE DAS AVARIAS,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,10,Resolvido,Impossivel contato com atendente,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,34,Resolvido,Porto Seguro Carro Fácil nem tão fácil assim,true,false,false,true,false,false,false,false
+Positivo,Porto Seguro,4,Resolvido,Veículo esperando análise,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,1,Resolvido,Não cumpre prazos,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,2,Resolvido,Sinistro de Terceiros,false,true,false,false,false,false,false,false
+Positivo,Porto Seguro,11,Resolvido,Demora no andamento do processo de sinistro,false,true,false,false,false,false,false,false
+Positivo,Porto Seguro,21,Resolvido,"Evitei usar o Reclame aqui, mas após 1 ano sem solução vi que não teria jeito",false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,8,Resolvido,Aplicativo trânsito mais gentil não aceita meu login,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,15,Resolvido,Cobrança Indevida de Seguro Residencial,true,false,false,false,false,false,false,false
+Positivo,Porto Seguro,7,Resolvido,Mudança indevida de valores em contrato vigente,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,3,Resolvido,descepicionado,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,5,Resolvido,Cobrança indevida,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,23,Resolvido,ATEDIMENTO,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,36,Resolvido,Solicitação de estorno não processada,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,9,Não resolvido,Seguradora não compre apólice,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,11,Resolvido,Comprovante de cancelamento de apólice de seguro fiança que não se concretizou,true,false,false,false,true,false,false,false
+Positivo,Porto Seguro,12,Resolvido,sem atendimento telefônico,false,false,false,false,false,false,true,false
+Positivo,Porto Seguro,12,Resolvido,Consulta não consentida ao meu CPF no Serasa,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,7,Resolvido,Cobrança no meu número de celular para outra pessoa,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,13,Resolvido,Boleto indevido,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,6,Resolvido,Demora na aprovação do orçamento,false,false,false,false,false,false,false,false
+Positivo,Porto Seguro,3,Resolvido,Cancelamento,false,false,false,false,true,false,false,false
+Negativo,Youse Seguros,53,Não resolvido,Seguro cancelado.,true,false,false,false,false,false,false,false
+Negativo,Youse Seguros,13,Resolvido,COBRANÇA INDEVIDA - NÃO ESTORNAM E NÃO DEPOSITAM O VALOR,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,40,Não resolvido,Não contrate nada desta empresa,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,26,Não resolvido,Assistência Técnica,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,7,Não resolvido,Atendimento PÉSSIMO,false,false,false,false,false,false,true,false
+Negativo,Youse Seguros,50,Não resolvido,Valor absurdo na renovação,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,3,Não resolvido,Apolice Cancelada sem motivo,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,2,Não resolvido,Seguro aumentou quase o dobro,true,false,false,false,false,false,false,false
+Negativo,Youse Seguros,19,Resolvido,Guincho,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,9,Não resolvido,Cancelamento do seguro.,true,false,false,false,true,false,false,false
+Negativo,Youse Seguros,2,Não resolvido,4 horas para conseguir serviço de guincho e assistência,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,26,Não resolvido,Não contratem! Propaganda enganosa!,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,4,Não resolvido,Reajuste absurdo na mensalidade,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,0,Não resolvido,Youse não aceita minha classe bônus,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,5,Não resolvido,Mal serviço,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,27,Não resolvido,CARRO NEGADO NÃO INFORMAM O MOTIVO,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,8,Não resolvido,Cancelamento do seguro,true,false,false,false,true,false,false,false
+Negativo,Youse Seguros,7,Resolvido,Pessimo atendimento,false,false,false,false,false,false,true,false
+Negativo,Youse Seguros,6,Não resolvido,COBRAM POR SERVIÇOS NÃO PRESTADOS,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,29,Não resolvido,Propaganda enganosa,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,1,Resolvido,Seguro recusado,true,false,false,false,false,false,false,false
+Negativo,Youse Seguros,38,Não resolvido,cobranças indevida e mesmo reclamando até na ouvidoria ninguem resolve,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,4,Não resolvido,Aumento abusivo,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,17,Resolvido,Cancelaram minha apólice e não consigo fazer outra,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,19,Não resolvido,Seguro Funeral Enganoso,true,false,false,false,false,false,false,false
+Negativo,Youse Seguros,35,Não resolvido,Não consegui contratar o seguro,true,false,false,false,false,false,false,false
+Negativo,Youse Seguros,5,Resolvido,Cobrança indevida,false,false,false,false,false,false,false,false
+Negativo,Youse Seguros,5,Resolvido,Péssima experiência ! 4H para chegar um reboque.,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,12,Resolvido,Propaganda enganosa,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,19,Resolvido,Propaganda enganosa,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,16,Resolvido,NOVA COBRANÇA INDEVIDA!,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,6,Resolvido,Tive meu seguro cancelado por um erro interno e agora não consigo contratar,true,false,false,false,false,false,false,false
+Positivo,Youse Seguros,2,Resolvido,Cancelamento de apólice,false,false,false,false,true,false,false,false
+Positivo,Youse Seguros,22,Resolvido,Cobrança Indevida não estornada,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,25,Resolvido,Renovam seu seguro sem você querer e é quase impossível de cancelar,true,false,false,false,false,false,false,false
+Positivo,Youse Seguros,26,Resolvido,Estorno de cobrança indevida não pago,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,7,Resolvido,"YOUSE NAO RETORNA EMAIL DESDE JANEIRO, NAO CONCEDE DESCONTO E REALIZA PROPAGANDA ENGANOSA",false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,7,Resolvido,Empresa promete recompensa por indicação de pessoas e não paga a recompensa,false,false,false,false,false,false,false,false
+Positivo,Youse Seguros,9,Resolvido,não consigo alterar beneficiários seguro vida,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,11,Não resolvido,Carro sem previsão de reparo e sem direito a carro reserva,false,false,false,true,false,false,false,false
+Negativo,MAPFRE Seguros,22,Não resolvido,Pedido devolução dinheiro da seguradora,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,9,Não resolvido,Estou a duas semanas tentando gerar um boleto,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,3,Não resolvido,3:00 esperando um reboque em via principal de SP,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,15,Não resolvido,"Mal atendimento, demora, ninguém sabe resolver (SINISTRO DO CARRO)!!!!!!!!!!",false,false,false,false,false,false,true,false
+Negativo,MAPFRE Seguros,31,Resolvido,Devolução de valor - Título de capitalização,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,38,Resolvido,Sem resposta,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,75,Resolvido,Cancelaram meu seguro mas debitaram o valor,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,7,Resolvido,Assistencia 24 horas desqualificada - Mapfre terceiriza e não acompanha o serviço,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,42,Não resolvido,Notebook queimado que a mafre não quer pagar,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,12,Não resolvido,Demora na indenização,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,42,Resolvido,Mapfre negou o reparo do meu carro,false,false,false,true,false,false,false,false
+Negativo,MAPFRE Seguros,28,Não resolvido,Falta de resposta para resolução de sinistro,false,true,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,27,Resolvido,BB Seguros cancela apólice indevidamente e não resolve o problema.,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,43,Não resolvido,"Ressarcimento de Franquia paga pela segurada,",false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,2,Resolvido,Garantia estendida!,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,12,Não resolvido,"Falta de assistência, demora no retorno, descaso total",false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,9,Não resolvido,BB SEGUROS/MAPFRE: + DE 90 DIAS SEM O CARRO,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,11,Não resolvido,2 horas pra mandar um guincho no centro de Guarapuava PR,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,37,Não resolvido,Classe bônus zero,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,6,Não resolvido,Seguro Estendido que não funciona,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,1,Não resolvido,"Vida - Na pior hora, a cobertura não é igual vendem. Parece o sanduíche com gosto de picanha.",false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,8,Não resolvido,"Carro não totalmente concertado devido a vistoria da seguradora. Péssimo atendimento, enganadores.",false,false,false,true,false,false,true,false
+Negativo,MAPFRE Seguros,42,Não resolvido,Cobrança em duplicidade sem estorno,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,8,Não resolvido,2 anos sem juros e correçao,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,14,Não resolvido,"MAPFRE SEGUROS NÃO CONFIE, POIS NÃO ASSEGURA NINGUÉM , COLOCARÁ SEU PATRONIO EM RISCO COM A MAPFRE INSEGUROS.",false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,13,Não resolvido,PÉSSIMO ATENDIMENTO E DESCASO,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,16,Resolvido,Televisão com defeito . Seguro demorado.,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,2,Não resolvido,Sem assistência,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,22,Não resolvido,Descaso com o segurado,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,31,Resolvido,Indenização,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,6,Não resolvido,BB seguro,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,14,Não resolvido,GUINCHO péssimo atendimento,false,false,false,false,false,false,true,false
+Negativo,MAPFRE Seguros,6,Não resolvido,Seguro descoberto há mais de 20 dias por falta de atualização do meu CEP na apólice.,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,11,Não resolvido,Sinistro em Fevereiro,false,true,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,92,Não resolvido,Serviço ruim e irresponsável.,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,35,Não resolvido,Falta de pagamento da Mapfre,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,37,Resolvido,Seguro há 2 meses na enrolação,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,6,Não resolvido,Total descaso com terceiro abalroado por segurado,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,14,Não resolvido,Mafre seguro celular nao contrate,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,7,Não resolvido,Consulta ao SERASA,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,8,Resolvido,Desrespeito com segurado e terceiro. Ausência de avaliação em veículo.,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,35,Não resolvido,Na contrate seguro auto do Banco do Brasil,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,11,Não resolvido,Seguro de rompimento de tubulações,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,36,Resolvido,Péssimo atendimento e falta de respeito com terceiro,false,false,false,false,false,false,true,false
+Negativo,MAPFRE Seguros,22,Não resolvido,Dificuldade para cancelamento e resgate total de valor em plano de previdência,false,false,false,false,true,false,false,false
+Negativo,MAPFRE Seguros,14,Não resolvido,Dificuldade de abrir reclamação na ouvidoria,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,42,Resolvido,MAPFRE SEGUROS GERAIS S.A,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,11,Resolvido,Ridículo. Não conseguem fazer vistoria de um Tcross 2022.,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,19,Resolvido,"Comprei um produto, acionei a garantia e nao foi resolvido",false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,6,Não resolvido,Péssimo atendimento Assistência 24hs,false,false,false,false,false,false,true,false
+Negativo,MAPFRE Seguros,14,Não resolvido,Não atendem na hora em que você mais precisa,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,2,Resolvido,MAPFRE não cumpriu o prazo de pagamento discreto em contrato,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,29,Resolvido,Mapfre não paga cliente,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,12,Resolvido,Lucro cessante,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,21,Não resolvido,Não cumpre seguro contratado,true,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,1,Resolvido,Vistoria em veículo zero km,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,47,Não resolvido,Descaso e Falta de Atendimento,false,false,false,false,false,false,true,false
+Negativo,MAPFRE Seguros,7,Resolvido,Me sinto enganado,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,33,Resolvido,Garantia estendida,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,9,Resolvido,Me sinto enganado,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,63,Resolvido,ENCAMINHADA PARA O REPARO DO CELULAR EM UM OUTRO ESTADO,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,9,Resolvido,FALTA DE RESPEITO PELO CONSUMIDOR - NÃO FAÇAM NEGOCIO COME STA EMPRESA!!!!,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,78,Não resolvido,Saldo Resgate Previdência,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,23,Resolvido,SEGURADORA NÃO PAGA SINISTRO - CUIDADO ENGANADORES,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,39,Resolvido,Demora absurda,false,false,false,false,false,false,false,false
+Negativo,MAPFRE Seguros,5,Não resolvido,Cancelamento a revelia,false,false,false,false,true,false,false,false
+Negativo,MAPFRE Seguros,5,Resolvido,Desrespeito com o cliente,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,8,Resolvido,seguradora pessima não facam,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,7,Resolvido,PRODUTO ELETRÔNICO SEM NOTA FISCAL,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,37,Resolvido,"EMPRESA NÃO PRESTA ATENDIMENTO, DEMORA NA SOLUÇÃO DE SINISTRO",false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,33,Resolvido,GARANTIA ESTENDIDA NÃO CUMPRIDA,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,14,Resolvido,SEGURADOARA ENROLA PARA FAZER A PERICIA DO VEICULO,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,8,Resolvido,"Recusas injustificadas em seguida, pedindo dados que eu já apresentei",false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,3,Resolvido,CONTA AINDA NO ESAJ PROCESSO QUE O CARRO JA FOI ATE DEVOLVIDO,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,31,Resolvido,Ganhos cessantes,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,63,Resolvido,Cobrança indevida,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,36,Resolvido,Sem reembolso,false,false,false,false,false,false,false,true
+Positivo,MAPFRE Seguros,9,Resolvido,Péssimo atendimento!,false,false,false,false,false,false,true,false
+Positivo,MAPFRE Seguros,37,Resolvido,2 via de boleto em atraso,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,36,Resolvido,DISCRIMINAÇÃO,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,16,Resolvido,Assistência residencial,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,3,Resolvido,Pagamento de parcelas,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,6,Resolvido,Nao me atendem - Resgate Previdencia,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,4,Resolvido,DEMORA NO SERVIÇO DE SINISTRO,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,9,Resolvido,Seguro do carro 2 meses e não trocou teto solar quebrado,true,false,false,true,false,false,false,false
+Positivo,MAPFRE Seguros,19,Resolvido,"Três vezes seguidas, sem intervalo de tempo, com o mesmo defeito!",false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,10,Resolvido,Sinistro de celular,false,true,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,9,Resolvido,ASSISTENCIA 24HS,false,false,false,false,false,false,false,false
+Positivo,MAPFRE Seguros,15,Resolvido,Sem retorno da assistência,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,33,Não resolvido,Dificuldades em obter a Carta de Permanência,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Não resolvido,Insatisfação total com a Bradesco Seguros auto,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,71,Não resolvido,Bradesco Seguro usa de táticas protelatórias para não pagar o prêmio,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,85,Resolvido,REEMBOLSO DE GUINCHO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Resolvido,Valor lucro cessante,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Não resolvido,Redução de mama negada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,15,Não resolvido,Nao recebi o informe de rendimento 2021,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,9,Não resolvido,Cobertura que não existe,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,"Não enviam guincho, deixam na mão!",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,NÃO COBRIRAM DANOS AO VEICULO A TERCEIROS,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,NUNCA CONSIGO AGENDAR ACUPUNTURA QUANDO PRECISO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,9,Não resolvido,"Na hora que vocês mais precisa, a seguradora lava as mãos",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,44,Resolvido,Assistência 24hs não prestada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,27,Não resolvido,"NÃO RECEBI O SEGURO, JÁ PEDI FAZ UM ANO",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,42,Resolvido,Bradesco Seguros não aceita cancelamento,true,false,false,false,true,false,false,false
+Negativo,Bradesco Seguros,17,Não resolvido,Pior seguro que eu já fiz em 37 anos. Não fazem reembolso!,true,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,49,Resolvido,"Carro parado há 6 meses, pior seguro.",true,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,Carro com 50 dias na oficina para reparo,false,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Problemas com o pagamento lucro cessante,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Pior escolha em planos de Saúde( Bradesco top) .,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,49,Resolvido,FALTA DE RETORNO SINISTRO SEGURO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Resolvido,Reembolso a mais de 5 mes sem pagamento,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,6,Não resolvido,Lucros cessantes valor oferecido é inaceitável,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,36,Não resolvido,Casa atingida por vendaval e cliente não ressarcido!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Não resolvido,PROBLEMA NAO RESOLVIDO E FALTA DE ACESSO AO MEU CONVÊNIO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Não resolvido,PAGAMENTO DE LUCRO CESSANTE,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,44,Não resolvido,Bradesco não autoriza exames,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Guia de Nutricionista Negado,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,descaso com o cliente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,25,Resolvido,Reembolso Exame COVID,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,9,Não resolvido,tarefa árdua conseguir boleto de pagamento,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Resolvido,Bradesco Seguro Residencial não cumpre apólice de seguro,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Resolvido,Descaso total com o cliente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Resolvido,Extrato de Anual de Sinistro Pagos,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,0,Não resolvido,Não aceitam exames de sangue de nutricionista,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Não resolvido,Bradesco não informa mais aos clientes o rendimento da previdência,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,40,Não resolvido,Convênio descredenciado,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Não resolvido,atraso no concerto do carro,false,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,8,Não resolvido,3 reclamação e nada do Reembolso,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,4,Resolvido,NÃO ATENDIMENTO DO SERVIÇO SOLICITADO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,23,Não resolvido,Portal proteção,false,false,false,false,false,true,false,false
+Negativo,Bradesco Seguros,18,Não resolvido,Reembolso negado,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,6,Não resolvido,SOCORRO DE ELETRECISTA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,55,Não resolvido,Solicitação de Reembolso,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,67,Não resolvido,Sinistro - Peças Não chega a Oficina,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,Infusão de medicação - Pulsoterapia Intravenosa,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Não resolvido,REEMBOLSO NEGADO E REEMBOLSO PAGO VALOR ERRADO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,Seguro auto Bradesco absurdo,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,1,Não resolvido,Seguro de carro Bradesco seguro,true,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,29,Não resolvido,"DESCUMPRIMENTO DE OBRIGAÇÕES, DESRESPEITO COM CONSUMIDOR",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,35,Não resolvido,Não compre Seguro de viagem com Bradesco - Não irá conseguir cancelar e receber o reembolso,true,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,8,Não resolvido,Solicitação de Reboque e Mecanico,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,42,Não resolvido,Recebimento de serviço prestado a seguradora,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,34,Não resolvido,APP Bradesco Seguros não funciona corretamente,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Não resolvido,Demora na transferência da Previdência Privada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Cancelamento apólice seguro - sem notificação pendência pagamento,true,false,false,false,true,false,false,false
+Negativo,Bradesco Seguros,34,Resolvido,DESMARCAÇÃO DE CIRURGIA AGENDADA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Resolvido,Não cancelam meu seguro prestamista,true,false,true,false,false,false,false,false
+Negativo,Bradesco Seguros,31,Resolvido,Falta de Assistência da seguradora com carro quebrado DENTRO da cidade,false,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,SOLICITAÇÃO DE REBOQUE,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Resolvido,Extrato de pagamento nunca emitido,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,25,Não resolvido,Não liberação de Sessões de Terapia,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Não resolvido,Não conseguem modificar a forma de pagamento do meu seguro auto,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Troca de Senha,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,10,Resolvido,Não recebi meu resgate,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Não resolvido,CANCELAMENTO DE TRATAMENTO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Não resolvido,Reembolso cirurgia refrativa,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,42,Não resolvido,Reembolso não pago e Reclamação na ANS,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,67,Resolvido,Contratei o seguro e não me enviam a apolice,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,81,Não resolvido,Empresa irresponsável. Demora no atendimento e não reembolsa,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,63,Não resolvido,"Bradesco Seguro se recusando a cumprir o contrato de cobertura de faróis, lanterna e retrovisores - PÉSSIMO SEGURO",true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,32,Não resolvido,Cobrança absurda,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,36,Não resolvido,Carro na oficina há 3 meses,false,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,9,Resolvido,Seguro Viagem enganação,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Impossível refazer a senha,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,16,Não resolvido,Desrespeito total com o cliente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Resolvido,"Não faça seguro auto Bradesco, não atende os segurados",true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,16,Resolvido,Bradesco vida e previdência cobrança indevida,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Resolvido,Nome errado,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,INTERNET BANKING DO BRADESCO (NAO) REDUZ VALOR CONTRIBUIÇÃO DO (PGBL),false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,42,Não resolvido,ALTERAÇÃO DE E-MAIL BUROCRÁTICA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Não resolvido,Ah espera do seguro que não veio,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,15,Não resolvido,Solicitação de Comprovante de Pagamento Inviável de Enviar,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,17,Não resolvido,Falta de Atendimento,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,73,Não resolvido,Sinistro Não Resolvido,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,PIOR EMPRESA QUE CONHEÇO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,0,Não resolvido,Um Absurdo o Prazo 15 dias,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,20,Resolvido,Não consigo cancelar um sinistro,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,17,Não resolvido,Reembolso fisioterapia,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,8,Resolvido,Péssimo serviço e atendimento,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,7,Não resolvido,Bradesco Seguros Auto ME ABANDONOU,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Não resolvido,Rede referenciada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,24,Não resolvido,Reembolso Indevido,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,7,Não resolvido,Demora para entrega de serviço após sinistro,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,22,Não resolvido,Pensem muito antes de contratar Bradesco Saúde!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Não resolvido,Autorização para procedimento pendente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Resolvido,Bradesco saúde não está nem aí para os seus clientes,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,67,Resolvido,SEGURO RESIDENCIAL,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Não resolvido,Bradesco seguros não respeita eus clientes,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,38,Não resolvido,Convênio simplesmente negou meu atendimento,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,20,Não resolvido,Seguro caro pago de uma vez cancelei e n quero receber $ na minha conta,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Não resolvido,Sinistro Seguro Auto,true,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Não resolvido,Demora em procedimento,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,42,Resolvido,Atendimento não prestado,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,16,Não resolvido,CONTESTAÇÃO AO VALOR REEMBOLSADO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,55,Não resolvido,Seguro Bradesco cancelado sem aviso,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Não resolvido,Recusa de prévia de reembolso sem motivo,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,49,Não resolvido,Reembolso Psicoterapia Não Reembolsado sem explicação,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,10,Resolvido,Disse que o meu reembolso iria ser depositado e não depositaram,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,28,Não resolvido,Seguro residencial,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,32,Não resolvido,"Bradesco Seguros, nunca mais!!!",true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,Descumprimento de Condições Gerais,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Resolvido,Não Recebi o Reembolso do Serviço de Quincho,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,1,Não resolvido,Atendimento péssimo,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,70,Não resolvido,Paga cara e não presta,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Não resolvido,"ESSA NÃO É A PRIMEIRA VEZ!!! Meu nome não é Hermes, não conheço nenhum Hermes e não quero mais receber ligações de 30 em 30 minutos me cobrando de algo que não tem relação comigo.",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,BRADESCO SEGUROS,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Não querem pagar o reembolso,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,28,Não resolvido,Assistência,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Não resolvido,Lucro cessante,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,Péssimo serviço,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,Negativa de reembolso / Contato satisfatório IMPOSSÍVEL,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,43,Não resolvido,Seguro auto,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,SEGURO DE VIDA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,57,Não resolvido,Fiz a adesão paguei no cartão,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Não resolvido,Alteracao de dados em cadastro,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,34,Não resolvido,CADASTRO CARTEIRINHA FARMÁCIAS,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Não resolvido,Demora para reembolsar gasto com guincho,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,26,Resolvido,Bradesco não devolve título de capitalização,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,Bradesco seguros não me fornece cópia da apólice,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,35,Resolvido,Seguro auto,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Ausência de resposta - Necessidade de fornecimento de medicamento,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Resolvido,"Apropriação indébita - cobrança indevida, em duplicidade, nem a ouvidoria resolve. NÃO FAÇAM NEGÓCIO COM ESSA EMPRESA!!!!",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,49,Resolvido,Seguro de Vida,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,32,Não resolvido,Serviço Indevido,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,10,Não resolvido,Problemas de TI o dia todo,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Resolvido,Previdência Privada Resgate,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,43,Não resolvido,Pessario não coberto pelo convenio,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,41,Não resolvido,"informações erradas, ganancia, avareza,",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Seguro Auto - 3 horas para envio de guincho,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,NÃO REEMBOLSO DE EXAMES OFTALMOLÓGICOS (ABERROMETRIA E PENTACAM),false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,35,Não resolvido,Descaso 2,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,16,Não resolvido,Cadê meu informe de rendimentos,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Não resolvido,Resgate do plano previdência sumiu,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,33,Não resolvido,PSOCORRO SEM COBERTURA PARA EXAME COBERTO PELA ANS,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,30,Resolvido,empresa se recusa a trocar meu email de cadastro e me ignora.,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,13,Resolvido,Não fizeram o pagamento do reembolso taxi autorizado devido acionamento.,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,32,Não resolvido,Banco Bradesco e venda casada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Médica não passou a receita completa,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,33,Resolvido,Apólice cancela e continua caindo pagamento,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,45,Não resolvido,Para-brisa,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Não resolvido,Reembolso Fisioterapia,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,26,Não resolvido,Negativa Reparadoras Pós Gastroplastia,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,81,Não resolvido,Cancelaram atendimento após horas de espera,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,9,Não resolvido,LUCROS CESSANTES É ENGANAÇÃO. ABSURDO!!! DESRESPEITO TOTAL!!!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,34,Não resolvido,PERTURBAÇÃO INCESSANTE,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,31,Não resolvido,INDENIZAÇÃO DE SINISTRO RESIDENCIAL,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Dificuldade de efetuar o cancelamento de seguro residencial,true,false,false,false,true,false,false,false
+Negativo,Bradesco Seguros,2,Não resolvido,BRADESCO SAÚDE É [Editado pelo Reclame Aqui]!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Não resolvido,Seguro Bradesco residencial,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,9,Resolvido,Péssima cobertura de seguro auto,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Estou sendo [Editado pelo Reclame Aqui] por não me pagaram o que devem,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,41,Não resolvido,Reembolso cirurgia + anestesia + instrumentadora,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,17,Não resolvido,Lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,40,Não resolvido,COBRANÇA INDEVIDA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,42,Não resolvido,Autorização negada para exame,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Não resolvido,Bradesco seguros auto não socorre,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,73,Não resolvido,"Entrada em sinistro, e no Bradesco disseram que estava inativos",false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,40,Resolvido,Empresa não cumpre suas obrigações e atendente desliga para não dar satisfação,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,22,Não resolvido,Investimento em previdência proposto por Bradesco resulta em perda maior que 12% em 11 meses,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Ordem de Pagamento inexistente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,26,Não resolvido,Negativa de cirurgia reparadora,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Apólice divergente e cadastro desatualizado.,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,51,Não resolvido,Supressão ilegal de cobertura devidamente contratada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,40,Não resolvido,5 meses para um reembolso e até hoje não tive resposta,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,36,Não resolvido,Seguro prestamista,true,false,true,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Resolvido,DIFICULTAM PARA NÃO TE PAGAR.,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,61,Não resolvido,Venda Inapropriada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,Seguro viagem internacional,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Reembolso não previsto em contrato,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,28,Não resolvido,Não possuem referenciados e não reembolsam praticamente nada!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,30,Resolvido,Alteração de Senha,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Credenciamento,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,19,Não resolvido,Não consigo contato,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,Não façam seguro Bradesco. Sem comprometimento!,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,29,Não resolvido,Péssimo seguro. Não fazem reembolso. Demoram para atender,true,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,53,Não resolvido,Demora de 6 meses e 20 dias ou 202 dias para conserto de veículo - INACEITÁVEL,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Não resolvido,Impossível cancelar plano de saúde,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,29,Resolvido,Mau atendimento ao cliente no Bradesco Vida e Previdência S/A - Previdência Privada PGBL AT83M,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,25,Não resolvido,Burocracia para receber lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,41,Não resolvido,"Serviços PÉSSIMOS, atendimento HORROROSO!!!",false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,35,Resolvido,Resgate de Titulo de Capitalização muito demorado,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,18,Resolvido,Plano sempre questiona reembolso,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,6,Não resolvido,ESPERANDO O GUINCHO ATÉ 2023,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,34,Resolvido,Liberação para procedimento cirurgico,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Resolvido,falecimento e cobrança do seguro saude indevido,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Não resolvido,Falta de interesse em ser resolutivo,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Resolvido,CONTINUA PENDENTE A RESOLUÇÃO DO MEU PROBLEMA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Resolvido,Não reembolsa o reboque,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,Dinheiro meu com o bradesco e dificil de conseguir,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Seguro saúde COM seguro viagem,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Resolvido,Cancelamento dos acessos apos fim do plano corporativo,false,false,false,false,true,false,false,false
+Negativo,Bradesco Seguros,26,Não resolvido,Carência para ressonância!!!!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,3,Resolvido,"Faz o cliente de bola de pingue pongue e nunca responde, são já 2 meses de enrolação",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Resolvido,Veículo adquirido através de leilão,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,11,Resolvido,"Meu carro deu pane de madrugada 04:50, e o Bradesco so fez o resgate as 08:40 da manha.",false,false,false,true,false,false,false,false
+Negativo,Bradesco Seguros,28,Não resolvido,Continuam a cobrar mesmo depois de ter encerrado o sinistro,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,12,Não resolvido,APLICATIVO CANCELANDO AS CONSULTAS SEM AVISAR,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Resolvido,Cobrança indevida / cancelamento,false,false,false,false,true,false,false,false
+Negativo,Bradesco Seguros,5,Não resolvido,Na Dutra sem reboque por Sistema Inoperante,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,9,Não resolvido,Péssimo atendimento,false,false,false,false,false,false,true,false
+Negativo,Bradesco Seguros,8,Resolvido,Até no reclame aqui nada se resolveu,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,descaso total na liberação de sinistro,false,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,23,Resolvido,"Bradesco negou autorização para cirurgia que preciso até amanhã, em um local indicado por eles mesmos!",false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Resolvido,Resgate de Previdência Privada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,25,Resolvido,Impossível resgatar o valor da previdência privada,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Não resolvido,Reembolso Bradesco Saúde,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,41,Não resolvido,Reembolso não pago,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,24,Não resolvido,PAGAMENTO TAXA PARTO OBSTETRA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,O difícil fone fácil,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,47,Resolvido,Nao consigo logar,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,26,Resolvido,Não enviaram apólice de seguro,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,18,Resolvido,RESGATE PREVIDENCIA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,NAO ATENDIMENTO DE GUINCHO,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,Liberação de senha para cirurgia,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Não resolvido,instabilidade no sistema de extratos,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Não resolvido,Bradesco Seguros demora para autorizar cirurgia.,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,36,Resolvido,Seguro residencial sem aparecer no app,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Não resolvido,Baixa de sinistro barrando Renovação de seguro,true,true,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Não resolvido,Sem medicos disponiveis,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,49,Não resolvido,BRADESCO SAUDE,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,33,Resolvido,Um descaso total com o Cliente,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,Impossível cancelar um seguro,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Resolvido,Assistência não prestada e Reembolso não efetivado,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,5,Resolvido,Guincho,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,5,Resolvido,Falta de pagamento lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,6,Resolvido,Sistema do Bradesco Saúde está inoperante há 3 dias?!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,21,Resolvido,Me deixaram 48h esperando,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,28,Resolvido,Uma novela para marcar um procedimento e não consigo,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,14,Resolvido,Lucros cessantes sem resposta!,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,8,Resolvido,Propaganda enganosa,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,48,Resolvido,Não tem Credenciados,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,7,Resolvido,"Cancelar Seguro Bradesco?? Meus pêsames, muita sorte e paciência pra vc, vai precisar!",true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,86,Não resolvido,Cobertura Urgente de Cirurgia,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,4,Resolvido,Má prestação de serviço,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,9,Resolvido,Desrespeito,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,16,Não resolvido,Extrato de pagamentos Bradesco Saude,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,17,Resolvido,Seguro lucros cessantes,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,2,Resolvido,Seguros de vida sem permissão,true,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,20,Resolvido,Lucro Cessante,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,22,Não resolvido,DEMORA NA APROVAÇÃO DE HOMECARE PARA IDOSA,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,61,Resolvido,SEGURO VIAGEM,false,false,false,false,false,false,false,false
+Negativo,Bradesco Seguros,46,Resolvido,Cirurgia refrativa LASIK reembolso apenas 30%,false,false,false,false,false,false,false,true
+Negativo,Bradesco Seguros,63,Resolvido,Cópia da APÓLICE DO SEGURO DE VIDA da minha mãe,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,16,Resolvido,Não consigo acessar a carteira digital pelo aplicativo,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,11,Resolvido,Contestação Bradesco Seguro Saúde,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,"CIRURGIA NAO AUTORIZADA, 2 MESES DE ESPERA, RECLAMAÇÃO ANS.",false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,90,Resolvido,Previdência,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,15,Resolvido,"Consignado com venda casada, seguro prestamista cancelamento",true,false,true,false,true,false,false,false
+Positivo,Bradesco Seguros,1,Resolvido,Peguei um empréstimo paguei quitei com muita antecedência e não recebi o reembolso do seguro,true,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,3,Resolvido,Reboque não veio,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,31,Resolvido,PROBLEMAS COM REEMBOLSO,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,31,Resolvido,MAIS UMA VEZ O PLANO SE RECUSA REEMBOLSO,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,68,Resolvido,Dificuldade e morosidade na aprovação de cirurgia cervical,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,Bradesco Vida e Previdência NÃO PEDI,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,36,Resolvido,Resgate de Previdência,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,21,Resolvido,Cadê o Seguro de Vida?,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Bradesco Saúde permite internação mas nega a cirurgia.,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Seguro prestamista,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,1,Resolvido,Seguro prestamista,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,14,Resolvido,Ligações indesejadas,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,27,Resolvido,"Seguro residencial cobrado sem uso, sem assinatura de apólice",true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Aplicativo Bradesco Seguro auto,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,4,Resolvido,Não consigo efetuar o pagamento da fatura do seguro auto,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,37,Resolvido,CANCELAMENTO DE FORMA UNILATERAL POR PARTE DA EMPRESA BRADESCO S/A,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,11,Resolvido,Bradesco Previdencia não devolve montante acumulado,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,49,Resolvido,COBRANÇA EM FOLHA DE PAGAMENTO DE SERVIÇO NAO REALIZADO,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,33,Resolvido,"Não consigo o extrato de coparticipação do Bradesco Saúde, site sempre dando erro",false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Reembolso PARTO - Protocolo 2022.0003043992.00,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,20,Resolvido,Dificuldade de resgate Economia premiável Bradesco,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,35,Resolvido,"Não contratem Título de capitalização, é uma furada",false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,24,Resolvido,SOS PORTAL Dra Nicole Alves Gricheno Sigolo,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,30,Resolvido,Seguro prestamista,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,57,Resolvido,boleto não enviado nem disponível no site,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Reembolso Parcial INSTRUMENTADOR CIRÚRGICO,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,2,Resolvido,Falha no site Bradesco Saúde para obter o extrato de IRPF,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,33,Resolvido,Seguro de Vida,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Pagamento invertido de mensalidade Bradesco não resolve,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,30,Resolvido,Desconto coparticipação,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,CIRURGIAS REPARADORAS NEGADAS,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,12,Resolvido,Reembolso Terapia Infantil ABA lançada errado como psicólogo individual comum,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,7,Resolvido,Atendimento Médico,false,false,false,false,false,false,true,false
+Positivo,Bradesco Seguros,11,Resolvido,[Editado pelo Reclame Aqui] ! [Editado pelo Reclame Aqui] ! BRADESCO [Editado pelo Reclame Aqui] SEUS CLIENTES !,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Cancelamento de autorização,false,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Demora para aprovar perícia,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Extrato não disponível ha semanas,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,LIBERAÇÂO DE CIRURGIA GASTROPLASTIA!,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Reembolso anestesia protocolo-2022.0003260705.01,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,55,Resolvido,Bradesco Seguro Saúde não está autorizando os serviços médicos,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,40,Resolvido,Não recebi minha apólice de seguro viagem,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,3,Resolvido,REEMBOLSO BRADESCO SAUDE MUITO ABAIXO DO APRESENTADO,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Reembolso negado sem motivo,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,5,Resolvido,Autorização medicacao,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,2,Resolvido,Cancelamento de seguro,true,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,44,Resolvido,Bradesco Saúde - não dá carteirinha física e site indisponível,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,33,Resolvido,Reembolso seguro,true,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,1,Resolvido,Liberação de sinistro,false,true,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Exclusão de dependente e cobrança valor cheio da mensalidade,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,50,Resolvido,Bradesco Saúde plano individual dificulta Informe 2021 para IR,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,Bradesco Saúde fora do prazo!!!!!,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,3,Resolvido,cancelar seguro prestamista 900194,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,16,Resolvido,Dificuldade em agendar exames,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,Nao ha especialista em endometriose,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Reembolso Anestesia não foi paga integralmente,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,25,Resolvido,Boleto não entregue em tempo hábil para pagamento,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Demora na liberação de procedimento de baixa complexidade,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,36,Resolvido,Problema para sacar Previdência Bradesco,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,52,Resolvido,Reanálise de Reembolso,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,3,Resolvido,RESGATE PREVIDENCIA PRIVADA - MENOR IDADE,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,22,Resolvido,Reembolso,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,6,Resolvido,Cancelamento,false,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,56,Resolvido,Reembolso do Parto,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,28,Resolvido,Contratação do seguro viagem,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,FALTA DE ATENDIMENTO HUMANO NO BRADESCO ! AUTOMACAO PERDEM A SENSIBILIDADE,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Resgate de titulo,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Cancelamento de Apólice,false,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Reembolso não confere com custo cirúrgico.,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,3,Resolvido,INFORME ERRADO DE IMPOSTO DE RENDA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Aguardando liberação de material para cirurgia,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Reembolso negado mais uma vez sem motivos,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,5,Resolvido,Isso é uma coisa séria. Somos seres humanos e bixo,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,16,Resolvido,Cirurgia bariátrica negada,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,34,Resolvido,Não recebo meu título de capitalização!,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,57,Resolvido,Toda vez tenho Reembolsos negados sem motivo,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,32,Resolvido,Bradesco residencial,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Seguro de vida e previdência,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Reembolso anestesia protocolo 2022.0002391794,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,39,Resolvido,Abertura de Sinistro- Analises de Documentação,false,true,false,false,false,false,false,false
+Positivo,Bradesco Seguros,38,Resolvido,Quebra de contrato - Não reembolso da EO em sala de parto,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,33,Resolvido,Falta de comprometimento em solucionar sinistros de veículos.,false,true,false,false,false,false,false,false
+Positivo,Bradesco Seguros,30,Resolvido,Não atendem o telefone,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,22,Resolvido,Problema no débito do seguro,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Capitalização,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Seguro indevido,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Cancelamento e ressarcimento de seguro,true,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,23,Resolvido,Cirurgia Ombro Esquerdo,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Seguro prestamista. Cancelamento,true,false,true,false,true,false,false,false
+Positivo,Bradesco Seguros,38,Resolvido,Médico na tela é serviço fake!,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,94,Resolvido,Dificuldade de solução,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Conflito do valor reembolsado,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,Bradesco Auto/Re - Cia de seguros,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,10,Resolvido,Seguradora Bradesco faz seguro sem autorização do segurado,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,41,Resolvido,Site inconsciente,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Seguro de Vida Cobrado 2 Vezes,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Cancelamento do seguro prestamista BRADESCO,true,false,true,false,true,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Negativa de tratamento já aprovado e iniciado,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,19,Resolvido,SEGURO PRESTAMISTA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,12,Resolvido,Propaganda enganosa! (Vício Oculto),false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Falta de análise pedido reembolso,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,5,Resolvido,Preciso do meu remédio quimioterapico,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,12,Resolvido,CADASTRAR CONTA BANCÁRIA PARA REEMBOLSO,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Não consigo cancelar o seguro prestamista (Seguro de vida - Financiamento CDC Veículo),true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Resgate de título de capitalização,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,11,Resolvido,EXTRATO DE DESPESAS MÉDICAS PARA FINS DE IMPOSTO DE RENDA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,18,Resolvido,REEMBOLSO DOENÇA RÁRA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,20,Resolvido,INCLUSÃO PLANO DE SAÚDE,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,3,Resolvido,Exame Calprotectina fecal recusado pelo Plano Bradesco Saúde Top Nacional.,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Franquia de lanterna traseira é mais caro do que a compra de uma lanterna nova,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,13,Resolvido,Demora para aprovação de cirurgia REPARADORA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Quero Cancelar e Estornar o meu seguro de vida,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Seguro prestamista,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Cancelamento de título de capitalização,false,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,SEGURO PRESTAMISTA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,35,Resolvido,Estorno Multiplano Geração 3,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,7,Resolvido,Não consigo emitir o boleto de pagamento da mensalidade de maio do meu plano de saúde da Bradesco Saúde,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,0,Resolvido,Previdência,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Solicitação de Reembolso - Parto Normal,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,16,Resolvido,Recebimento fornecedor Bradesco vida e Previdência SA,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,36,Resolvido,Exame,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Cancelamento de seguro,true,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,46,Resolvido,Informe para o Imposto de renda Bradesco Saúde,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,16,Resolvido,Aplicativo Bradesco Saúde não funciona e pagamentos de reembolso acabam atrasando,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,5,Resolvido,Demora em Análise de Pedido de Cirurgia,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,6,Resolvido,Falta de Respeito com o Cliente - Descompromisso,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,49,Não resolvido,SINISTRO DE DOIS ANOS ATRAS E AINDA NAO RECEBEMOS,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,34,Resolvido,Não devolveu dinheiro debitado pós casamento de apólice de seguro de vida,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Cancelamento e resgate capitalização Bradesco.,false,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,61,Resolvido,Espera por liberação de exame,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Cancelamento de seguro prestamista,true,false,true,false,true,false,false,false
+Positivo,Bradesco Seguros,38,Resolvido,Negativa de diária,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Pagamentos autorizados em atraso,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,37,Resolvido,Reembolso sendo negado,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,5,Resolvido,Cobrança imposta de Seguro,true,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,5,Resolvido,Reembolso Seguro Residencial,true,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,7,Resolvido,Cancelamento de seguro,true,false,false,false,true,false,false,false
+Positivo,Bradesco Seguros,8,Resolvido,Problemas com reembolso,false,false,false,false,false,false,false,true
+Positivo,Bradesco Seguros,2,Resolvido,Envio de demonstrativo de IR 2021/22,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,1,Resolvido,Liberação de Cirurgia,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,40,Resolvido,Cobertura Enoxaparina sódica,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,4,Resolvido,Erro no aplicativo ao trocar e-mail,false,false,false,false,false,false,false,false
+Positivo,Bradesco Seguros,11,Resolvido,Cancelar seguro prestamista,true,false,true,false,false,false,false,false
+Positivo,Bradesco Seguros,9,Resolvido,Atraso no Reembolso de serviço de Taxi,false,false,false,false,false,false,false,true
+Negativo,AIG Seguros Brasil,51,Não resolvido,Atraso na Análise e pagamento.,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,26,Não resolvido,Negativa e demora na análise da documentação seguro proteção de preço,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,9,Não resolvido,PROTEÇÃO DE PREÇO NÃO CREDITADA !!!,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,30,Não resolvido,"prazo nao cumprido,reclamacao sem retorno",false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,6,Não resolvido,SEGURADORA AIG NÃO PAGA SEGURO DE PROTEÇÃOD E PREÇO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,13,Não resolvido,Seguro proteção de preços VISA não pago,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,56,Não resolvido,Atraso no Reembolso,false,false,false,false,false,false,false,true
+Negativo,AIG Seguros Brasil,20,Não resolvido,Atraso pagamento Seguro Proteção Preço.,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,11,Resolvido,NÃO PAGAMENTO DE 2 SINISTROS JÁ APROVADOS,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,30,Não resolvido,garantia de preco,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,12,Não resolvido,ATRASO NA ANALISE DA PP,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,34,Não resolvido,FALTA DE RETORNO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,58,Resolvido,03746327###03661214,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,9,Não resolvido,Seguro Proteção de preço com pagamento em atraso,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,18,Não resolvido,Demora exagerada na resposta da Proteção de Preço,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,9,Não resolvido,Proteção de preço não paga,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,51,Resolvido,Falta de respeito,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,11,Resolvido,Indenização não paga,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,29,Não resolvido,Seguros Aprovados e não pagos.,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,31,Não resolvido,Seguro aprovado e não pago!,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,44,Não resolvido,Seguro proteção de preços VISA não pago,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,33,Não resolvido,Sinistro finalizado sem ser pago,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,41,Não resolvido,Seguro Viagem sem Assistência e Burocrático e não funciona,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,49,Resolvido,Bradesco Visa Infinite - Demora no ressarcimento do seguro viagem (auto),true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,31,Não resolvido,SEGURO PROTEÇÃO DE PREÇO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,30,Não resolvido,Indeferimento indevido de sinistros,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,12,Não resolvido,PROTEÇÃO DE PREÇO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,6,Não resolvido,Pagamento Sinistro 03766900,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,15,Não resolvido,Seguro proteção de preços VISA não pago,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,21,Resolvido,Proteção de Preço não paga - Visa e AIG Seguros,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,28,Não resolvido,Sinistro Pendente - 03659328 - Proteção de Compras,false,true,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,35,Não resolvido,3699711 - Proteção de Preço com atraso de pagamento,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,69,Não resolvido,Atraso no pagamento do seguro de Proteção de Preço,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,54,Não resolvido,Sinistro demorando a ser analisado,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,4,Não resolvido,"sinistro aprovado, fechado sem ser pago",false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,30,Resolvido,Proteção de Preço não paga - Visa e AIG Seguros (Há mais de 3 meses),true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,6,Não resolvido,Seguro Proteção de Preço Reprovado,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,3,Não resolvido,Proteção de preço,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,41,Não resolvido,Protocolo aprovado com reembolso atrasado,false,false,false,false,false,false,false,true
+Negativo,AIG Seguros Brasil,58,Não resolvido,Sinistro com data errada,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,12,Não resolvido,PAGAMENTO NÃO EFETUADO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,10,Não resolvido,Empresa não responde,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,26,Resolvido,Falta de Respeito - Demora na análise (3 meses),false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,25,Resolvido,Visa Proteção de Preços não paga o sinistro,false,true,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,31,Não resolvido,Dois seguros de proteção de preço atrasados meses,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,19,Não resolvido,Retorno Sinistro 03803191 - Visa Proteção de Compras,false,true,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,31,Não resolvido,Demora na resposta,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,27,Não resolvido,Seguradora não paga sinistro!!,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,55,Não resolvido,Pagamento não realizado pela AIG,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,19,Não resolvido,Problemas com pagto com Visa Beneficios - Seguro proteção de preços cartão - Axa seguradora,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,12,Resolvido,Sinistro não foi pago.,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,39,Não resolvido,#3 reclamação CU662101316,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,0,Não resolvido,Desde o ano passado solicitando o proteção de preço,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,25,Não resolvido,Atraso e problemas na proteção de preços,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,35,Não resolvido,Proteção de Preço não paga,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,56,Não resolvido,Proteção de preço aprovado há mais de dois meses e ainda não pago,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,52,Não resolvido,Sem resposta na analise do Seguro,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,50,Resolvido,Bradesco Visa Infinite - Demora no ressarcimento do seguro viagem (auto),true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,14,Não resolvido,Demora para retorno no processo,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,41,Não resolvido,AIG NÃO CUMPRE COM SUAS OBRIGAÇÕES,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,27,Não resolvido,Seguradora não paga! não respeita prazos!!,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,42,Não resolvido,Atrazo no pagamento do sinistro,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,47,Não resolvido,Demora no pagamento do seguro proteção de preço,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,27,Resolvido,Serviço de Proteção de preços - Propaganda Enganosa!!!,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,30,Não resolvido,Cadê o dinheiro do seguro que foi aprovado a quase 2 meses????,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,33,Não resolvido,AIG SEGUROS,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,47,Não resolvido,Atraso SPP - VISA,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,1,Não resolvido,Prazo expirado e pagamento não efetuado,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,7,Não resolvido,SEGURO NÃO PAGO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,38,Não resolvido,Falta de retorno,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,36,Não resolvido,Problema no pagamento,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,7,Não resolvido,Seguro Proteção de Preços Visa não creditado,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,5,Não resolvido,INDIGNADO! Descaso e mal atendimento no SAC da AIG,false,false,false,false,false,false,true,false
+Negativo,AIG Seguros Brasil,49,Não resolvido,Atraso no pagamento do sinistro,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,43,Resolvido,Empresa não paga sinistro aprovado,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,46,Não resolvido,Sinistro aberto em 20/03 sem resolução,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,2,Não resolvido,IMPOSSÍVEL O CONTATO - reembolso de gastos por seguro saúde,true,false,false,false,false,false,false,true
+Negativo,AIG Seguros Brasil,29,Não resolvido,Proteção de preço aprovado e não pago,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,11,Não resolvido,SEGURO SEM ASSISTÊNCIA NO EXTERIOR E NEGAM RESSARCIMENTO DAS DESPEAS MESMO APÓS 5 MESES,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,26,Não resolvido,Demora no pagamento do sinistro,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,15,Não resolvido,SEGURO PROTEÇÃO DE PREÇO VISA NÃO PAGA O SINISTRO,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,7,Não resolvido,Transtorno Total com a Seguradora AIG,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,26,Não resolvido,Cadê o dinheiro do seguro que foi aprovado a quase 2 meses?,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,19,Resolvido,AIG não paga sinistro VISA Proteção de Preço,false,true,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,24,Resolvido,Problemas com o prazo,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,21,Não resolvido,Meu seguro proteção de preço está 2 meses atrasado,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,28,Não resolvido,"Proteção de preço aprovada, mas não paga após dcorrido 15 dias.",false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,57,Resolvido,Reembolso não efetuado. Prazos não cumpridos,false,false,false,false,false,false,false,true
+Negativo,AIG Seguros Brasil,45,Não resolvido,Demora da analise,false,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,5,Resolvido,"Solicito o deposito em minha conta do valor referente ao seguro ""Proteção de Preço Visa""",true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,34,Não resolvido,Proteção de Preços Negada,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,17,Resolvido,Seguro Proteção de Preço Visa Não pago - Bilhete 03728199,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,29,Não resolvido,Não pagamento - Proteção de Preços - VISA,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,21,Não resolvido,atraso na resolução dos sinistros,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,25,Não resolvido,Proteção de preço visa,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,11,Resolvido,AIG e VISA não pagam meu sinistro,false,true,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,6,Não resolvido,Proteção de preço atrasada!,false,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,45,Resolvido,Pagamento do seguro proteção de preço,true,false,false,false,false,true,false,false
+Negativo,AIG Seguros Brasil,35,Não resolvido,Seguro ainda não creditado!,true,false,false,false,false,false,false,false
+Negativo,AIG Seguros Brasil,12,Resolvido,Seguro de Proteção de Preços não pago e sem previsão de depósito,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,25,Resolvido,Demora para resposta de sinistro,false,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,39,Resolvido,Atraso Seguro Proteção de Compras Visa,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,44,Resolvido,Não depositaram Seguro Proteção de Preco,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,31,Resolvido,Demora para pagamento de Proteção Preço Visa,false,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,13,Resolvido,"Proteção de Preços do cartão Visa Infinite foi aprovada, mas não foi paga até agora",false,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,5,Resolvido,Seguro não pago,true,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,3,Resolvido,PROTEÇÃO DE PREÇO,false,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,28,Resolvido,NÃO PAGAMENTO DE SEGUROS AIG/VISA,false,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,53,Resolvido,Aguardando pagamento cujo prazo já se encerrou há muito tempo,false,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,3,Resolvido,Atraso no pagamento de sinistro,false,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,31,Resolvido,Sem retorno na Proteção de Preço,false,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,28,Resolvido,Ainda nao recebi o sinistro aprovado Número do bilhete: 03714547,false,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,14,Resolvido,Seguro proteção de preços aprovado e não pago,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,30,Resolvido,Demora na análise de seguro do cartão visa,true,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,29,Resolvido,Sinistro proteção de Preço Parado a mais de Mês,false,true,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,4,Resolvido,Seguro proteção de preço não recebido,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,28,Resolvido,"Deram um prazo do meu sinistro de 15 dias e ate hoje não recebi nada, já reclamei no site da visa e do AIG e não recebi nenhum retorno.",false,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,8,Resolvido,Sinistro não pago pela AIG,false,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,27,Resolvido,AIG Seguros Brasil não cumpriu com o Pagamento do meu Sinistro,true,true,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,53,Resolvido,ATRASO NO PAGAMENTO DO SEGURO PROTEÇÃO DE PREÇO - VISA,false,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,13,Resolvido,"Seguro proteção de preço aprovado, Mais não recebi",true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,24,Resolvido,SEGURO PROTEÇÃO DE PREÇO - BILHETE 03709940,false,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,34,Resolvido,Seguro não foi pago,true,false,false,false,false,false,false,false
+Positivo,AIG Seguros Brasil,15,Resolvido,Seguro Proteção de Preço,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,31,Resolvido,Atraso no pagamento do seguro proteção de preço,true,false,false,false,false,true,false,false
+Positivo,AIG Seguros Brasil,29,Resolvido,Demora na análise do sisnistro de compra protegida cartão Mastercard,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,41,Não resolvido,EMPRESA NÃO SOLUCIONA O PROBLEMA E MOSTRA LAUDO QUE NÃO RETRATA A REALIDADE,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,26,Resolvido,Restituição de seguros,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,15,Não resolvido,Enrolação no atendimento da Garantia Estendida,false,false,false,false,false,false,true,false
+Negativo,Zurich Brasil Seguros,20,Resolvido,ZuricH não atende consulmidor com colchão que apresentou defeito.,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,Não consigo atendimento do seguro,true,false,false,false,false,false,true,false
+Negativo,Zurich Brasil Seguros,31,Resolvido,Assistência técnica ruim e pós zurich péssimo,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,21,Resolvido,Cancelamento do seguro celular,true,false,false,false,true,false,false,false
+Negativo,Zurich Brasil Seguros,28,Não resolvido,PÉSSIMO ATENDIMENTO DA EMPRESA,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,34,Não resolvido,NEGATIVA DE PAGAMENTO DE PEQUENOS REPAROS,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,12,Não resolvido,Não querem cobrir o sinistro de Furto Qualificado,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,41,Não resolvido,Uma porcaria,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,19,Não resolvido,Não entregou conserto do carro no prazo estipulado pela susep,false,false,false,true,false,false,false,false
+Negativo,Zurich Brasil Seguros,8,Resolvido,Aguardando o pagamento,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,8,Não resolvido,Seguro sem Responsabilidade com Cliente,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,2,Não resolvido,Zurich nega cobertura a sinistro do meu celular,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,43,Não resolvido,Reparamos sinistro por inteiro e recebemos parcialmente.,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,6,Não resolvido,"QUERO PAGAR MEU SEGURO À VISTA, DE ACORDO COM A PROPOSTA ENVIADA, E ESTÃO ME IMPEDINDO, FORÇANDO O PAGAMENTO PARCELADO COM JUROS.",false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,21,Não resolvido,Falha na prestação de Serviços,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,86,Não resolvido,NAO COBRIRAM MEU SEGURO SENDO QUE ESTA NO CONTRATO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,Falta de atendimento,false,false,false,false,false,false,true,false
+Negativo,Zurich Brasil Seguros,8,Não resolvido,Não quiz fazer a troca da televisão por uma da mesma,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,10,Não resolvido,Demora em dar retorno e passar informações sobre sinistro,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Resolvido,DEMORA PARA PAGAR,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,2,Não resolvido,DESCASO COM O CLIENTE - Geladeira Não funciona,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,11,Não resolvido,Espera excessiva para um reboque,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,Sinistro negado indevidamente,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,47,Resolvido,CELULAR GARANTIA ESTENDIDA. NÃO REPARARAM A CONTENTO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,19,Não resolvido,Cancelamento Indevido de apólice após erro em pagar boleto,false,false,false,false,true,false,false,false
+Negativo,Zurich Brasil Seguros,11,Não resolvido,Prejuízo causado pela zurich a cliente,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Não resolvido,Notebook veio do concerto com defeito e não querem me reembolsar,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Não resolvido,PESSIMA SEGURADORA,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,15,Não resolvido,CANCELAMENTO E ESTORNO SEGURO AUTO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,11,Não resolvido,Sem geladeira Zurich dificulta pagamento de seguro,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,13,Não resolvido,Demora pra. Liberar seguro,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,Seguradora engana cliente,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,46,Resolvido,Reembolso de Lucros Cessantes,false,false,false,false,false,false,false,true
+Negativo,Zurich Brasil Seguros,42,Não resolvido,Não consertaram só trocaram o HD 500 por outro,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,DESCASO COM O SEGURADO NO PAGAMENTO DA INDENIZAÇÃO!,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,10,Não resolvido,Seguro que não foi indenizado,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,16,Não resolvido,ZURICH NÃO DA SUPORTE PARA O SEGURO CONTRATADO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,13,Não resolvido,Cobertura contratada diferente da cobertura atendida,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Não resolvido,Encanador nunca chega,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,37,Resolvido,Falta de Assistência e Reembolso,false,false,false,false,false,false,false,true
+Negativo,Zurich Brasil Seguros,25,Não resolvido,Pagamento de Sinistro negado indevidamente,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,10,Não resolvido,Contato impossível.,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,19,Não resolvido,Falta de compromisso,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,17,Não resolvido,DEMORA E DESCASO COM O CLIENTE APOS UM SINISTRO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,28,Não resolvido,GARANTIA EXTENDIDA SMART TV LG 50 POLEGADAS - RECUSA DO REPARO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,6,Não resolvido,Retorno da empresa,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Não resolvido,Zurich brasil seguros .,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,35,Não resolvido,Atraso no crédito de reembolso de despesas,false,false,false,false,false,false,false,true
+Negativo,Zurich Brasil Seguros,49,Não resolvido,Carta de anuência,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,70,Não resolvido,Não consigo acionar a garantia estendida,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,15,Não resolvido,Falta de assistenica,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Resolvido,Acionamento de seguros,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,7,Não resolvido,Falta de atendimento,false,false,false,false,false,false,true,false
+Negativo,Zurich Brasil Seguros,23,Não resolvido,Não cumprem código defesa do consumidor,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,19,Não resolvido,Prazo inaceitável para encerrar um Sinistro,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,38,Resolvido,Recebimento de sinistro,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Não resolvido,Falta de atendimento de seguro estendido,true,false,false,false,false,false,true,false
+Negativo,Zurich Brasil Seguros,19,Não resolvido,"Péssima seguradora, as duas vezes que precisei foi horrível",false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,47,Resolvido,Não consigo contato com a Ouvidoria,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,9,Resolvido,Redução Bonus indevida do 9 para 4,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,10,Não resolvido,2 vezes com o mesmo problema em menos de 1 mes apos primeiro concerto,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,18,Resolvido,Descaso com o prazo,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,12,Resolvido,Garantia não prestada,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,28,Resolvido,"Acionei assistencia 24hs para um serviço e preciso do comprovante, que a Zurick nao me envia e fica jogando para o prestador de serviço que tb nao resolve.",false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,4,Resolvido,Seguro Auto Zurich Seguros,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,35,Resolvido,[Editado pelo Reclame Aqui]/furto,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,3,Não resolvido,Seguro conta paga 02,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,26,Resolvido,Pior Seguradora de todos os tempos!,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,11,Resolvido,SEGURO ENGANOSO,false,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,10,Não resolvido,Sinistro não resolvido 2131151,false,true,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,16,Não resolvido,Enganado pela Zuric seguros,true,false,false,false,false,false,false,false
+Negativo,Zurich Brasil Seguros,8,Não resolvido,PARECER ANÁLISE DE SEGURO,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,36,Resolvido,Incluiram um seguro no financiamento sem eu pedir!!,true,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,8,Resolvido,Meu aspirador assegurado não foi ressarcido,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,14,Resolvido,NÃO DEIXAM EU CANCELAR O SEGURO!!!,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,9,Resolvido,Reembolso não entregue,false,false,false,false,false,false,false,true
+Positivo,Zurich Brasil Seguros,1,Resolvido,Reembolso,false,false,false,false,false,false,false,true
+Positivo,Zurich Brasil Seguros,14,Resolvido,Problemas em emissão de apólice,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,5,Resolvido,Até hoje a documentação está pendente?,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,7,Resolvido,GARANTIA ESTENDIDA,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,6,Resolvido,Não localizo minha garantia estendida,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,5,Resolvido,Péssimo atendimento assistência 24 horas,false,false,false,false,false,false,true,false
+Positivo,Zurich Brasil Seguros,25,Resolvido,Desistência ou cancelamento de seguro,true,false,false,false,true,false,false,false
+Positivo,Zurich Brasil Seguros,36,Resolvido,DESCASO ELETROLUX - EFETUAR TROCA DO PRODUTO URGENTE,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,31,Resolvido,Há 2 meses esperando pagamento de indenização de perda total de veículo,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,9,Resolvido,SEM SOLUÇÃO!.SEM CARRO!,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,11,Resolvido,Desrespeito ao consumidor,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,8,Resolvido,Problema Intermitente no Equipamento com Garantia Extendia,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,8,Resolvido,Seguro conta paga,true,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,10,Resolvido,Continuo com problemas no trato com a Zurich sobre sinistro e franquia,false,true,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,30,Resolvido,Atraso no reparo,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,7,Resolvido,Zurich Minas Brasil e o [Editado pelo Reclame Aqui] da garantia extendida.,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,16,Resolvido,Seguro bolsa protegida sem resposta,true,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,7,Resolvido,Apólice Cancelada sem consentimento,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,3,Resolvido,Garantia estendida,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,6,Resolvido,Venda de garantia extendida da Zurich,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,20,Resolvido,Sem solução para o sinistro do seguro da geladeira Electrolux comprada nas casas Bahia,true,true,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,38,Resolvido,Descaso e desrespeito,false,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,19,Resolvido,Falta de compromisso da assistência técnica da empresa Zurich seguros,true,false,false,false,false,false,false,false
+Positivo,Zurich Brasil Seguros,5,Resolvido,Seguradora,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,4,Não resolvido,Não cobriu colisão,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,3,Não resolvido,negativa de cobertura indevida,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,Decepcionado muito !!!,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,1,Não resolvido,Tokio marine recusou pagamento,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,18,Não resolvido,Péssimo atendimento e falta de guincho!,false,false,false,false,false,false,true,false
+Negativo,Tokio Marine Seguradora,13,Não resolvido,Não contrate Tokio Marine - Não tem Prestador - Guincho demora mais de 3 horas,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,73,Não resolvido,TOKIO MARINE falida!,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,48,Não resolvido,Seguro cancelado por falha na vistoria,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,12,Não resolvido,"Atraso da seguradora para vistoria, para entrega de peças, pra tudo",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,23,Não resolvido,[Editado pelo Reclame Aqui] DA SEGURADORA,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Não resolvido,Seguro não compareceu ao local para prestar socorro ao veículo,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,15,Resolvido,SEM ATENDIMENTO,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Não resolvido,Seguro de farois e lanternas,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,24,Não resolvido,Reembolso,false,false,false,false,false,false,false,true
+Negativo,Tokio Marine Seguradora,9,Resolvido,Conserto que NUNCA é aprovado,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,18,Resolvido,A empresa é boa até que vc acione o serviço.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Não resolvido,Não debitaram a parcela do seguro no meu cartão,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,5,Resolvido,Reclamação Processo Sinistro 3495620,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,27,Resolvido,Demora na aprovação de complemento de processo de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,12,Não resolvido,Não recomendo a TOKIO MARINE: Assistência Auto péssima,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Não resolvido,Sem cobertura_teto panorâmico_Peugeot 308,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,7,Não resolvido,Divergência de informações influência no andamento do sinistro gerando danos,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,1,Não resolvido,Burocracia no sinistro de veículo,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,39,Não resolvido,Forçaram o reparo no veiculo e demora por falta de peças,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,5,Não resolvido,Ineficiência de todos os serviços,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Não resolvido,"Acidente causado por assegurado, demora para reparo!",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,19,Não resolvido,Não querem trocar para-choque avariado,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,30,Não resolvido,Sinistro com mais de 40 dias sem resolução,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,16,Não resolvido,Assistencia 24 ineficiente.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,35,Resolvido,Perito Nunca Comparece À Concessionária Para Avaliação Do Sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,15,Não resolvido,Mais de 30 minutos após ligar na assistência 24 hrs nem sequer começaram a procurar prestadores,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,11,Não resolvido,Quando precisei não fui atendido,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,23,Não resolvido,Exigência de rastreador,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,2,Não resolvido,Ocorreu o sinistro e não pagaram o seguro!!!,true,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Resolvido,"Não atendem na hora de emergência, autoriza pedir particular e não reembolsam",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,15,Não resolvido,Sinistro Recusado após Semanas do Carro Parado na Oficina,false,true,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,NEGARAM A SUBSTITUIÇÃO DO RETROVISOR MESMO TEMDO COBERTURA COMPLETA,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,11,Não resolvido,Lucros cessantes,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Não resolvido,Vão me reembolsar sobre um valor errado e muito depois do prazo.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Resolvido,SEGURADORA SE RECUSA PAGAR LUCRO CESSANTE,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,14,Não resolvido,Cobrança indevida do sinistro do meu carro,false,true,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,41,Resolvido,Seguradora emite demonstrativo dizendo que pagou o valor do sinistro e não recebi 1 real,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,2,Não resolvido,Empresa não resolve o problema,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,58,Resolvido,Seguradora não responde aviso de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Não resolvido,Endosso na tokio marine não é levado a sério pela própria CIA,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,Um lixo de seguradora.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Não resolvido,Bom dia! Foi agendado dois reboques para meu veículo e não me atenderam.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,15,Não resolvido,Demora pra fornecer peças,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,5,Não resolvido,Recusa troca de vidro vigia,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,22,Não resolvido,Sem retorno do meu sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Não resolvido,Isenção de franquia.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Não resolvido,Seguro cancelado Tokio Marine,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,2,Não resolvido,Indenização Total Recusada,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,4,Não resolvido,Cartao alimentação nao entregue,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,22,Não resolvido,Espera para aprovação de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Resolvido,"Clientes da Tokio LEIAM, assim vocês podem mudar de seguradora logo",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,15,Não resolvido,Guincho,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Não resolvido,Não contrate a seguradora Tóquio Marine,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,7,Não resolvido,Negativa de cobertura de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,35,Não resolvido,PAGO O SEGURO PARA PROTEGER MEU PATRIMÔNIO E O PRESTADOR SE SERVIÇO DANIFICA O VEÍCULO,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,3,Não resolvido,Absurdo,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,Renovação [Editado pelo Reclame Aqui],false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,14,Não resolvido,Recusa indevida ao pagamento de sinitro,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,19,Não resolvido,Tokio Marine recusou fornecer guincho para o meu carro,false,false,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,11,Não resolvido,Irresponsabilidade.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Não resolvido,Péssimo atendimento,false,false,false,false,false,false,true,false
+Negativo,Tokio Marine Seguradora,10,Não resolvido,Demora para acionar reboque,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,3,Não resolvido,Manter o Valor da Apólice NOVA Mudando de Corretora,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,7,Não resolvido,sinistro com calculo abusivo,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,35,Não resolvido,A Tokio negou um sinistro de seguro residencial.,true,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,33,Não resolvido,Tecnico enviado pela Tokio Marine queimou minha geladeira e não consigo resolver o problema.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,7,Não resolvido,Negaram o seguro agindo de[Editado pelo Reclame Aqui],true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,Seguradora não cobre o produto contratado: total descaso com o cliente,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Não resolvido,Nao cumpre com o contrato,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,59,Não resolvido,Demora no processo de indenização,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Resolvido,Demora na indenização,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,19,Não resolvido,Negativa de indenizacao,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,6,Não resolvido,Seguro residencial Tokio Marine- Melhor não ter,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Não resolvido,"Tokio Marine Seguradora, não quer efetuar ressarcimento",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,29,Não resolvido,Não consigo orientação para reembolso,false,false,false,false,false,false,false,true
+Negativo,Tokio Marine Seguradora,43,Não resolvido,Sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,24,Não resolvido,Desconto indevido de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,41,Não resolvido,Veículo considerado perda total porém seguradora está demorando pra pagar o valor.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Resolvido,VISTORIA DE VEÍCULO PRÉ-AGENDADA E NÃO CUMPRIDA - VEÍCULO SEM COBERTURA,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,12,Não resolvido,Sinistro sem resposta,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,40,Resolvido,Vistoria aprovada e seguradora não libera as peças para o conserto do carro,false,false,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,41,Não resolvido,SEGURADORA MENTE PARA NÃO PAGAR SINISTRO,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,66,Não resolvido,"SEGURADORA CRIA REGRAS QUE NÃO CONSTAM NA APÓLICE E DEIXA O CLIENTE ESPERANDO POR GUINCHO POR 12HORAS, SENDO QUE O CLIENTE TEM DIREITO A GUINCHO CONFORME ESTABELECIDO EM APÓLICE, SEGURADORA PROCURA SOLUÇÃO ECONÔMICA PARA ELES, NÃO RESPEITANDO O DIREITO DE",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Não resolvido,FALTA DE COMPROMISSO COM O CONSUMIDOR,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,12,Não resolvido,"Demora para resolução de sinistro , encaminhamento do carro para outra oficina sem avisar o segurado",false,true,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,5,Não resolvido,Enrolação analise de sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,50,Resolvido,conserto do carro parado na oficina porque a seguradora não enviou as peças,false,false,false,true,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Não resolvido,Péssima experiência ao tentar pagar,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,16,Não resolvido,ATENDENDETE CALL CENTER INDECISO,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,18,Resolvido,Tempo longo para liberaçao de reparo apos sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,17,Não resolvido,Serviço que não resolve terceiros,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,4,Resolvido,Sinistro de Veículo - vistoria autoriza há mais de um mês com fornecimento de peças pela seguradora não entregue,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,12,Não resolvido,Péssimo atendimento serviço 24 horas de Guincho - Recusa de retornar o veiculo para minha casa,false,false,false,false,false,false,true,false
+Negativo,Tokio Marine Seguradora,12,Resolvido,Falta de Reembolso de guincho e falta de retorno sobre o processo de reembolso.,false,false,false,false,false,false,false,true
+Negativo,Tokio Marine Seguradora,7,Não resolvido,não pagamento de indenização e sem contato,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,86,Resolvido,Nao estão dando atenção pq devo ser terceiro!,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,34,Resolvido,Descaso com consumidor - falta de informação - falta de retorno,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,40,Não resolvido,3 horas para receber um atendimento,false,false,false,false,false,false,true,false
+Negativo,Tokio Marine Seguradora,51,Resolvido,Telefone 0800 não atendem,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,18,Não resolvido,TOKIO MARINE X SOMPO SEGURO!S,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,8,Resolvido,Tokio marine enrolando para liberar reparos,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,43,Resolvido,CONTA DE ENERGIA DE SHOPPING,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,18,Resolvido,Não Consigo Receber Reembolso de Guincho (aprovado pela própria Seguradora),false,false,false,false,false,false,false,true
+Negativo,Tokio Marine Seguradora,39,Resolvido,Sehuradora tokio marine.,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,19,Não resolvido,Quebra de contrato unilateral,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Não resolvido,Impossibilidade de falar com a segurada,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,22,Resolvido,Tokio Marine presta um péssimo serviço e não cumpre com o combinado,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Resolvido,Descaso,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,24,Resolvido,Linha Branca Assistência,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,9,Resolvido,Demora análise e resposta sinistro,false,true,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,24,Resolvido,Classe de bônus zerada ao muda modalidade de seguro,true,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,13,Resolvido,PRESTADOR RUIM,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,20,Resolvido,Problemas para ressarcimento do valor cobrado indevidamente,false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,10,Resolvido,"Prejuízo, desgaste e transtorno",false,false,false,false,false,false,false,false
+Negativo,Tokio Marine Seguradora,28,Resolvido,Pagamento de seguro pela tabela FIPE,true,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,23,Resolvido,Falta de flexibilidade em negociação de dívida,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,51,Resolvido,Reparo do veículo mal feito na oficina credenciada,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,2,Resolvido,INDENIZAÇÃO não recebida!,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,11,Resolvido,Tokio Marine indenizou titular causador e não indeniza terceiros,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,22,Resolvido,"ainda sem solução, aguardando contato da empresa, muito demorado",false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,12,Resolvido,Incompetência,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,13,Resolvido,NÃO TEM SUPORTE,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,45,Resolvido,VALOR DO LUCRO CESSANTE RIDICULO!!,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,49,Resolvido,Cancelamento de Apólice - Demora no Encerramento de Sinistro,false,true,false,false,true,false,false,false
+Positivo,Tokio Marine Seguradora,57,Resolvido,Demora pra autorizar reparo no veículo,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,13,Resolvido,Prestador de serviços nao resolveu problema,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,18,Resolvido,Vistoria,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,17,Resolvido,Atendimento,false,false,false,false,false,false,true,false
+Positivo,Tokio Marine Seguradora,0,Resolvido,Descaso com cliente,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,34,Resolvido,Negativam sei nome sem aviso e sem oportunidade de negociação,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,11,Resolvido,Seguradora Tokio Marine enrola no pedido de documentos para enrolar para pagar sinistro,false,true,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,8,Resolvido,Autorização de troca de oficina,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,15,Resolvido,"SINISTRO 3461798 , REFERENTE AO PAGAMENTO",false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,19,Resolvido,Empresa não entra em contato com proprietário do veículo terceiro envolvido em colisão com segurado da empresa,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,7,Resolvido,SEGURO CANCELADO,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,15,Resolvido,Descaso ressarcimento sinistro 3336226,false,true,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,37,Resolvido,"Tokio Marine e GM, cliente a quase 3 meses sem solução.",false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,41,Resolvido,Analise Incorreta do sinistro impactando diretamente no pagamento da Indenização.,false,true,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,14,Resolvido,Demora para as peças,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,9,Resolvido,Falta de atendimento/ assistência ao segurado,false,false,false,false,false,false,true,false
+Positivo,Tokio Marine Seguradora,16,Resolvido,Não resolvem o problema de sinistro,false,true,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,18,Resolvido,contato,false,false,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,20,Resolvido,Sinistro tokio marine,false,true,false,false,false,false,false,false
+Positivo,Tokio Marine Seguradora,18,Resolvido,Fui envolvido no acidente pela cliente deles,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",88,Não resolvido,Carro Reserva,false,false,false,true,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",14,Não resolvido,Sou terceiro em um acidente e eles não resolvem,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",14,Não resolvido,Reembolso,false,false,false,false,false,false,false,true
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",9,Não resolvido,Consulta a Score Indevida,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",49,Não resolvido,CANCELAMENTO UNILATERAL DE SEGURO VEICULAR,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",17,Não resolvido,"NÃO RECOMENDO Burocracia, demora, ausência de serviços e Erros em Idenização Seguro Auto",true,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",79,Não resolvido,Falta de retorno da empresa,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",20,Não resolvido,Empresa não pode substitur forma de cobrança,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",7,Resolvido,Péssimo atendimento,false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",22,Não resolvido,MAIS DE 3 MESES E NADA!,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",48,Não resolvido,ATENDIMENTO NEGADO PELA ALLIANZ,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",39,Resolvido,Falta de pagamento de comissões ao corretor.,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",24,Não resolvido,não quitacao de Ipva apos pagamento de sinistro,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",13,Não resolvido,Apólice de frota cancelada,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",13,Resolvido,DESCASO,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",39,Não resolvido,"Boletos em dia, contrato cancelado",false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",25,Não resolvido,ALLIANZ SEGUROS NEGA A ENTREGA DO CARRO RESERVA,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",3,Não resolvido,Pior seguradora ALLIANZ!,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",21,Não resolvido,Recusa de Pagamento de Sinistro como Terceiro,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",44,Não resolvido,Prazo resolução sinistro,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",15,Não resolvido,Atraso na documentação,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",34,Resolvido,ALLIANZ NÃO ACEITOU MEU PAGAMENTO,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",28,Não resolvido,Sem nenhuma informação do Sinistro - 264119765,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",48,Não resolvido,Negaram o taxi pra recuperar o veículo na oficina.,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",42,Não resolvido,Quando precisamos não temos o que contratamos,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",44,Não resolvido,Descaso e desrespeito para com o segurado,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",25,Resolvido,Sem atendimento ao serviço de reparo da máquina de lavar,false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",15,Não resolvido,Reembolso/Carro reserva,false,false,false,true,false,false,false,true
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",28,Não resolvido,NÃO QUITAÇÃO AO BANCO VEÍCULO,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",29,Não resolvido,Atendimento,false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",79,Não resolvido,"Atendimentos péssimos, e ainda prejudicam e sabotam os clientes.",false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",30,Não resolvido,Descaso da seguradora allianz,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",5,Não resolvido,Seguro cancelado sem aviso prévio,true,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",13,Não resolvido,Cancelamento indevido de apólice auto,false,false,false,false,true,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",11,Não resolvido,CANCELARAM MEU SEGURO RESIDENCIAL APOS SOLICITAR SINISTRO,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",8,Não resolvido,Seguro que não pode ser usado,true,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",63,Não resolvido,Descaso no atendimento de sinistro residencial,false,true,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",34,Não resolvido,Situação desconfortável seguro residencial,true,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",21,Não resolvido,Pagando um seguro auto que simplesmente não me atendeu quanto eu precisei !,true,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",74,Não resolvido,Mal atendimento,false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",52,Não resolvido,Qualidade baixa das oficinas parceiras da Allianz,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",37,Resolvido,Sinistro não indenizado,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",11,Resolvido,Não atende as emergências no prazo,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",74,Resolvido,Sem previsão para entrega do carro,false,false,false,true,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",7,Não resolvido,Garantia que não existe,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",18,Não resolvido,Prazo de 30 dias Estourou,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",7,Não resolvido,Descaso,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",5,Não resolvido,Leilão de carros da seguradora Allianz nunca mais!!!!!,false,false,false,true,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",26,Não resolvido,PESSIMO ATENDIMENTO E FALTA DE RESPEITO AO CLIENTE,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",28,Resolvido,Empresa desrespeita o consumidor,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",42,Não resolvido,Sinistro,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",22,Não resolvido,Troca de para brisa.,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",15,Não resolvido,Não contrate a Allianz Residencial,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",37,Não resolvido,Veículo batido por terceiros,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",12,Não resolvido,Cobrança indevida,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",77,Não resolvido,"Carro pronto na oficina, mas divergencia de informação.",false,false,false,true,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",4,Não resolvido,Assistência residencial não atendida,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",44,Resolvido,"descaso, atraso, qualidade atendimento",false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",53,Não resolvido,Sinistro não pago,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",31,Resolvido,Não estão respondendo solicitação de reembolso,false,false,false,false,false,false,false,true
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",21,Resolvido,Cobranca indevida,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",33,Resolvido,"Numero do sinistro 259658603 - serviço mal feito , pela oficina credenciada da allianz Seguros",true,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",46,Resolvido,Socorro Guincho,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",10,Não resolvido,Atraso no fornecimento de peças,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",46,Resolvido,Não resolução de sinistro,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",52,Não resolvido,Aguardando quase 3 meses para arrumar um para-choque,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",5,Resolvido,Não quero renovar com Allianz,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",26,Não resolvido,Demora para resolver o sinistro do meu veículo,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",4,Não resolvido,Informações errada,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",37,Não resolvido,Demora na vistoria e descaso do problema.,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",35,Não resolvido,RESTRIÇÃO TÉCNICA PARA O SEGURADO (CODE 3000),false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",40,Resolvido,Reembolso prometido e não pago,false,false,false,false,false,false,false,true
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",35,Resolvido,Impossível contato com a empresa Allianz,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",20,Não resolvido,Não cumprem o prometido,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",30,Não resolvido,Cancelamentos seguidos sem comunicação,false,false,false,false,true,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",35,Resolvido,assistencia residencial marca mas nunca aparece,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",19,Resolvido,Idosa sofre com burocracia de sinistro Allianz,false,true,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",57,Resolvido,"Morosidade para transferência de titularidade, desrespeitando prazo legal",false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",11,Resolvido,DESCASO E FALTA DE COMPROMISSO COM O ASSEGURADO!!!!,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",10,Não resolvido,Descaso allianz,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",49,Não resolvido,Péssima jornada e experiência do cliente no serviço de assistência 24 horas Allianz!,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",60,Resolvido,estou sem carro reserva e sem meu carro consertado,false,false,false,true,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",15,Resolvido,Demora no Socorro,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",10,Resolvido,SEM HONRAR A COBERTURA,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",13,Resolvido,Indignação com a qualidade do atendimento,false,false,false,false,false,false,true,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",15,Não resolvido,Decepção,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",14,Não resolvido,Benefícios inexistentes,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",12,Resolvido,Eu trabalho para a cia,false,false,false,false,false,false,false,false
+Negativo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",17,Resolvido,ASSISTÊCIA 24 HORAS RESIDENCIAL,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",5,Resolvido,Honda/Allianz Seguros recebeu pagamento errado e não quer devolver,true,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",16,Resolvido,Nunca vi um guincho demorar tanto,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",14,Resolvido,Vistoria de sinistro,false,true,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",7,Resolvido,Mal atendimento no SAC,false,false,false,false,false,false,true,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",49,Resolvido,Demora no envio do guicho,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",11,Resolvido,Falta de reembolso,false,false,false,false,false,false,false,true
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",17,Resolvido,Tempo de espera absurdo e falta de ferramentas no atendimento,false,false,false,false,false,false,true,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",14,Resolvido,Quero apenas o BOLETO,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",12,Resolvido,Sem Carro Reserva.,false,false,false,true,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",44,Resolvido,Reboque demora,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",25,Resolvido,reembolso,false,false,false,false,false,false,false,true
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",38,Resolvido,Não liberação de serviço pós sinistro,false,true,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",54,Resolvido,Esqueci o último boleto e cancelaram o seguro sem nem entrar em contato,true,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",22,Resolvido,Descaso na Troca de pneu,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",9,Resolvido,PÉSSIMO PRESTADOR DE CONSERTO DE GELADEIRA,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",7,Resolvido,Empresa recebeu pagamento errado e não quer devolver,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",30,Resolvido,Serviço 24 H,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",22,Resolvido,Erro no cadastro e NINGUÉM resolve,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",6,Resolvido,Cancelamento de Proposta de Seguro de Moto,true,false,false,false,true,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",36,Resolvido,Estorno nao efetuado,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",8,Resolvido,Debito no cartão de crédito,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",11,Resolvido,Não dá prá confiar Allianz seguro auto,true,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",21,Resolvido,Cuidado ao contratar seguro automotivo ALLIANZ !!!,true,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",22,Resolvido,Carro Substituto,false,false,false,true,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",51,Resolvido,debito de ipva,false,false,false,false,false,false,false,false
+Positivo,"Allianz Seguros e SulAmérica Auto, Residencial e Condomínio.",6,Não resolvido,Serviço de assistência 24h não foi prestado pela seguradora.,false,false,false,false,false,false,false,false
