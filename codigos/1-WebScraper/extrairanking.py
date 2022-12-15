@@ -33,17 +33,11 @@ def run_ranking(rank):
     for i in range(rank):
         empresa = driver.find_element_by_xpath(
         '//*[@id="category-rankings"]/div/div/div[3]/div/ul/li[' + str( i + 1 ) + ']/a[1]').get_attribute('title')
-        //*[@id="category-rankings"]/div/div/div[3]/div/ul/li[1]/a[1]
         link = driver.find_element_by_xpath(
         '//*[@id="category-rankings"]/div/div/div[3]/div/ul/li[' + str( i + 1 ) + ']/a[1]').get_attribute('href')
-        //*[@id="category-rankings"]/div/div/div[3]/div/ul/li[1]/a[1]
         empresas_ranking = pd.DataFrame([[i+1,empresa,link]],columns = empresas_ranking.columns).append(empresas_ranking)
+    # Fechando drive
     driver.close()
-    # Rank das empresas
-    print("As empresas coletatas foram: \n ",  empresas_ranking['empresa'])
-    # Gerando Arquivo CSV
-    os.makedirs('dados', exist_ok=True)  
-    empresas_ranking.to_csv('dados/empresasranking.csv',index=False) 
     # Passando arquivo Big Query
     gbq.to_gbq(dataframe = empresas_ranking,credentials=credentials, 
                                  destination_table='ReclameAquiStage.empresas_ranking', 
@@ -51,9 +45,5 @@ def run_ranking(rank):
                                  table_schema=[{'name': 'posicao', 'type': 'INTEGER'},
                                                {'name': 'empresa', 'type': 'STRING'},
                                                {'name': 'link', 'type': 'STRING'}])
-# Coletando as 5 primeiras
-try: 
-    run_ranking(10)
-except NoSuchElementException:
-    run_ranking(10)
+
 
