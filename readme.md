@@ -1,7 +1,7 @@
 ## Códigos
 ***
 
-### Extração
+### Extração Dados Reclame Aqui
 
 Reclame Aqui Scraper: https://github.com/gnaslaniec/Reclame-Aqui-Scraper/blob/master/scraper.py
 
@@ -13,17 +13,42 @@ Reclame Aqui Srcaper: https://github.com/mayrios/Crawler_ReclameAqui/blob/master
 Tratamento com Regex: https://medium.com/@wesleywatanabe/inteligencia-artificial-python-nltk-pandas-pln-3dbfda430382
 
 
-### Análises Semelhantes
+### Feature Selection
 
-Análise Eleisões Presidenciais: https://github.com/rdenadai/sentiment-analysis-2018-president-election
+https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172
 
-Análise de Sentimentos em Português: https://github.com/rafjaa/LeIA
 
-Sentiments Analysis Portuguese : https://www.kaggle.com/code/leandrodoze/sentiment-analysis-in-portuguese
+### Cross Validation
 
-NLP-Análise de Sentimento do Olist para iniciantes: https://www.kaggle.com/code/camillafonseca/nlp-an-lise-de-sentimento-do-olist-para-iniciantes
+https://scikit-learn.org/stable/modules/cross_validation.html
 
-Plotando gráfico de Word Embedding: https://www.kaggle.com/code/luisfredgs/plotando-gr-fico-de-word-embedding
+#### KFold
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html#sklearn.model_selection.KFold
+
+### Gread Search
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
+### Feature Selection with Gread Search
+
+https://www.yourdatateacher.com/2021/04/26/feature-selection-via-grid-search-in-supervised-models/
+
+### XGboost
+
+https://medium.com/grabngoinfo/hyperparameter-tuning-for-xgboost-91449869c57e
+
+
+### KNN
+
+https://gist.github.com/sawansaurabh/3748a083ffdec38aacb8f43660a5f654
+
+
+### Metricas de Avaliação
+
+https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198
+
+
 
 ## Referências
 ***
